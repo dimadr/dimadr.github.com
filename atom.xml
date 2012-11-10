@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[dimadr's blog]]></title>
+  <link href="http://dimadr.ru/atom.xml" rel="self"/>
+  <link href="http://dimadr.ru/"/>
+  <updated>2012-11-10T23:58:45+04:00</updated>
+  <id>http://dimadr.ru/</id>
+  <author>
+    <name><![CDATA[Dmitry Dremin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test post]]></title>
+    <link href="http://dimadr.ru/blog/2012/11/10/test-post/"/>
+    <updated>2012-11-10T23:36:00+04:00</updated>
+    <id>http://dimadr.ru/blog/2012/11/10/test-post</id>
+    <content type="html"><![CDATA[<p>Всем привет!</p>
+
+<p>Тестовый список:
+* раз
+* два
+* три</p>
+
+<p>Пронумерованный список:
+1. Петя
+2. Вася
+3. Коля
+4. Миша</p>
+]]></content>
+  </entry>
+  
+</feed>
