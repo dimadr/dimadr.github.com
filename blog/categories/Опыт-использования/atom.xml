@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Опыт использования | dimadr's blog]]></title>
+  <link href="http://dimadr.github.com/blog/categories/Опыт-использования/atom.xml" rel="self"/>
+  <link href="http://dimadr.github.com/"/>
+  <updated>2012-11-11T20:26:37+04:00</updated>
+  <id>http://dimadr.github.com/</id>
+  <author>
+    <name><![CDATA[Dmitry Dremin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[LibreOffice.org 3.6.3 Final Multilingual]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/02/libreoffice/"/>
+    <updated>2012-11-02T01:00:01+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/02/libreoffice</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2011/06/LibreOffice_logo.png'><img alt='' src='/uploads/2011/06/LibreOffice_logo-300x95.png' /></a></p>
+
+<p>26 октября 2012 года - <a href='http://download.documentfoundation.org/libreoffice/stable/3.6.3/win/x86/LibO_3.6.3_Win_x86_install_multi.msi'>LibreOffice.org 3.6.3 Final</a> Multilingual (<a href='http://download.documentfoundation.org/libreoffice/stable/3.6.3/win/x86/LibO_3.6.3_Win_x86_helppack_ru.msi'>русская справка</a>).</p>
+
+<p><em>Краткая справка LibreOffice — это качественный и полностью бесплатный офисный пакет со всеми необходимыми компонентами. Построен на основе популярного офисного пакета OpenOffice и развивается сообществом свободных разработчиков. Основной целью проекта является создание полностью свободного и независимого офисного пакета с большим сообществом разработчиков. Если OpenOffice развивается под контролем компании Oracle, то LibreOffice избавлен от жестких рамок и полностью свободен (в рамках лицензии LGPL).</em></p>
+
+<p><em>Программа способна заменить платный офисный пакет Microsoft Office. LibreOffice включает все, что нужно пользователю: текстовый процессор, электронные таблицы, программа для создания презентаций, векторный графический редактор, редактор математических формул и механизм подключения к внешним базам данных. Также в пакете имеется ряд фильтров для импорта и экспорта документов в наиболее распространенные форматы, включая форматы MS Office. Все компоненты пакета включают все необходимое для удобной и продуктивной работы. <a href='http://www.libreoffice.org/download/3-5-new-features-and-fixes/'>Подробный перечень функций и изменений новой версии</a>.</em></p>
+
+<p>Дистрибутив <em>LibreOffice for Windows</em>, переупакованный в административную точку. Собран в тихую установку с автоинсталляцией. <strong>Внимание.</strong> Для установки приложения потребуется установленный <a href='http://www.microsoft.com/ru-ru/download/details.aspx?id=17718'>.NET Framework 4.0</a> для Windows XP SP3 или <a href='http://download.microsoft.com/download/b/a/4/ba4a7e71-2906-4b2d-a0e1-80cf16844f5f/dotnetfx45_full_x86_x64.exe'>.NET Framework 4.5</a> для Windows 7 SP1. Для нормальной работы приложения потребуется Java™ SE Runtime Environment <a href='http://www.oracle.com/technetwork/java/javase/downloads/jre6u37-downloads-1859589.html'>Sun Java™ Runtime 6 Update 37</a> или <a href='http://www.oracle.com/technetwork/java/javase/downloads/jre7u9-downloads-1859586.html'>Sun Java™ Runtime 7 Update 9</a>.</p>
+<hr />
+<p>Дистрибутив LibreOffice 3.6.3 Stable Multilingual for Windows, переупакованный в административную точку с русской справкой. Собран в &#8220;тихую&#8221; установку с автоинсталляцией: Загрузить <a href='http://turbobit.net/0y48lp8dktwr.html'>LibreOffice.org 3.6.3 Stable</a> Multilingual (интегрирована русская справка); <a href='http://www.startfiles.org/load/0291000056'>зеркало 2</a> <em>Ключи тихой установки: -ai -fm0 Размер=156.37 Mb MD5=6ad625d79446c161c476ad1610154197 SHA1=ea7814cda8e2ea2b0a71251cb031269a71a7377f</em> <a href='/uploads/2012/10/Screen-Shot-2012-10-04-at-7.46.15-PM.png'><img alt='' src='/uploads/2012/10/Screen-Shot-2012-10-04-at-7.46.15-PM-300x194.png' /></a></p>
+<hr />
+<p>Дистрибутив <em>Java™ SE Runtime Environment 6 Update 37 - 7 Update 9 x86 / x64</em>. Может использоваться в качестве тихой установки, аддона и т.п., как при инсталляции ОС, так и на &#8220;живую&#8221; систему. Во время установки удаляет предыдущую версию Java (так настоятельно <a href='http://www.java.com/ru/download/faq/remove_olderversions.xml'>рекомендует Oracle</a>). Загрузить <a href='http://turbobit.net/kttt648yhfvw.html'><strong>Java™ SE Runtime Environment 6 Update 37 - 7 Update 9 x86 / x64</strong></a> <em>Ключи тихой установки: -ai -fm0 Размер=39.78 Mb</em></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[HitmanPro 3.6.2 Build 173 Final]]></title>
+    <link href="http://dimadr.github.com/blog/2012/10/26/hitman-pro/"/>
+    <updated>2012-10-26T00:00:57+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/10/26/hitman-pro</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2011/09/Hitman_Pro.png'><img alt='' src='/uploads/2011/09/Hitman_Pro.png' /></a></p>
+
+<p>25 октября 2012 - HitmanPro 3.6.2 Build 173 Final.</p>
+
+<pre><code>&lt;code&gt;
+&lt;a href=&quot;http://www.surfright.nl/en/hitmanpro/whatsnew&quot; target=&quot;_blank&quot;&gt;HitmanPro Release History&lt;/a&gt;:
+Build 173 (2012-10-25)
+• Исправлен режим &quot;Force Breach&quot; (не работал в билде 171).
+• Улучшено обнаружение для семейства вредоносов &quot;Ransom&quot;.
+• Различные небольшие изменения.
+• Исправлена ошибка, из-за которой иногда выключение сканера командной строки &quot;зависало&quot;.
+• Исправлена ошибка, при которой команда &quot;/pup&quot; не работала в сканере командной строки.
+• Исправлена совместимость с Ashampoo firewall (32-bit).
+• Улучшено обнаружение Bootkit&#39;ов.
+• Улучшена работа планировщика.
+• Разные улучшения для сканера командной строки.
+&lt;/code&gt;</code></pre>
+
+<p><a href='/uploads/2012/03/HitmanPro.png'><img alt='' src='/uploads/2012/03/HitmanPro-300x192.png' /></a></p>
+
+<p>Если вы думаете, что ваш компьютер чист от вирусов, загрузите эту утилиту и проверьте. Хорошо если ваши предположения оправдались, но как минимум следящие куки будут найдены. Использует утилита &#8220;облачные технологии&#8221;, поэтому для проверки компьютера потребуется интернет соединение.</p>
+
+<p><a href='/uploads/2012/10/Screen-Shot-2012-10-25-at-9.11.21-PM.png'><img alt='' src='/uploads/2012/10/Screen-Shot-2012-10-25-at-9.11.21-PM-300x237.png' /></a></p>
+
+<p><em>Краткая справка Сканер для выявления различных вредоносных программ. Особенность HitmanPro в том, что он использует при проверке базы данных других приложений для обнаружения и удаления шпионских модулей (Ikarus, G-Data, Emsisoft, Dr.Web, Prevx). Работает быстро и качественно.</em></p>
+
+<p>Режим &#8220;Force Breach&#8221;, включается при нажатом левом Ctrl:</p>
+
+<p>Загрузить программу можно с <a href='http://www.surfright.nl/en'>сайта производителя</a>: • <a href='http://dl.surfright.nl/HitmanPro36.exe'>HitmanPro 3.6.2 Build 173 x86</a> • <a href='http://dl.surfright.nl/HitmanPro36_x64.exe'>HitmanPro 3.6.2 Build 173 x64</a></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Malwarebytes' Anti-Malware 1.65.1.1000 Final]]></title>
+    <link href="http://dimadr.github.com/blog/2012/10/17/malwarebytes-anti-malware/"/>
+    <updated>2012-10-17T13:00:53+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/10/17/malwarebytes-anti-malware</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2011/12/malwarebytes.png'><img alt='' src='/uploads/2011/12/malwarebytes-150x150.png' /></a></p>
+
+<p>16 октября 2012 - Malwarebytes&#8217; Anti-Malware 1.65.1.1000 Final.</p>
+
+<pre><code>&lt;code&gt;
+Изменения в Malwarebytes&#39; Anti-Malware 1.65.1.1000 Final:
+Исправлены ошибки:
+• MBAMService теперь запускается корректно на всех системах.
+• Исправлен дефект, из-за которого модуль защиты программы не запускался в Windows на некоторых конфигурациях.
+• Исправлен дефект, из-за которого сканирование заканчивалочь преждевременно на некоторых конфигурациях.
+&lt;/code&gt;</code></pre>
+
+<p>Представляю вам программу, которой регулярно пользуюсь Malwarebytes&#8217; Anti-Malware и она помогала мне не раз . Вышла новая версия продукта - Malwarebytes&#8217; Anti-Malware версии 1.65.0.1400. При размере дистрибутива в 9 мб, данное приложение не могу назвать утилитой, так как оно может, после инсталляции и активации агента, выполнять полноценно защиту в реальном времени от вирусов. Определяет вредоносов Malwarebytes&#8217; Anti-Malware с очень хорошим процентом детекта, сигнатуры содержат очень большой список описания вирусов и обновляются несколько раз в день. Активация агента необязательна, вы можете проинсталлировав приложение, использовать его только для периодического сканирования системы. Что важно, проверке подвергается не только файловый сектор, но и реестр.</p>
+
+<p>При сканировании вместе с сигнатурным поиском используется также и эвристический анализ, что увеличивает процент обнаружения неизвестных вирусов. Единственный недостаток нет модуля использующего &#8220;облачные&#8221; технологии, но иногда инфицированный компьютер имеет модифицированные настройки интернета и возможность полноценно работать без &#8220;облака&#8221; становится плюсом. Рекомендую данный продукт для проверки Windows систем, как дополнительный инструмент против зловредов.</p>
+
+<p>Вот результаты сканирования инфицированных ОС приложением Malwarebytes&#8217; Anti-Malware: <a href='/uploads/2011/12/Mbam.png'><img alt='' src='/uploads/2011/12/Mbam-300x265.png' /></a><a href='/uploads/2011/12/Mbam2.png'><img alt='' src='/uploads/2011/12/Mbam2-300x108.png' /></a></p>
+
+<p>Загрузить <a href='http://data-cdn.mbamupdates.com/v0/program/data/mbam-setup-1.65.1.1000.exe'>Malwarebytes&#8217; Anti-Malware 1.65.1.1000 Final</a>.</p>
+
+<p>Домашняя страница: <a href='http://www.malwarebytes.org'>http://www.malwarebytes.org</a></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[UltraISO PE 9.5.3 Build 2901]]></title>
+    <link href="http://dimadr.github.com/blog/2012/08/26/ultraiso/"/>
+    <updated>2012-08-26T15:00:21+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/08/26/ultraiso</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2011/10/ultraiso_logo.png'><img alt='' src='/uploads/2011/10/ultraiso_logo.png' /></a></p>
+
+<p>26 августа 2012 года - новая версия UltraISO PE 9.5.3 Build 2901.</p>
+<code>
+    Изменения в UltraISO Premium 9.53 (August 23, 2012):
+    +) Can edit ISO images of Windows 7/8 x64 with EFI boot record
+    +) Can directly create bootable USB disk of Mac OS X Mountain Lion from dmg image
+    +) New bootpart device driver, supports accessing boot partition(deep hidden) within Windows (PE) environment
+    +) Supports high-end hidden boot partition (bootmgr)
+    +) Supports duplicating bootable USB flash drives (RAW mode)
+    +) Sector alignment on formatting USB Flash Drive as FAT volume
+    +) Can detect and use DVBFab virtual drive
+    *) Fixed a bug with handling ISO images of Fedora 17 and CentOS 6.2 
+    *) Fixed a bug with image splitting on VMWare Fusion(Mac) or Wine(Linux) 
+    *) Some minor improvements and bug fixes
+</code>
+<p><em>Краткая справка</em> UltraISO — программа для Windows, основной функцией которой является создание, редактирование и конвертирование различных форматов CD и DVD-образов. Программа также позволяет эмулировать и записывать компакт-диски и DVD. Программа является платной, бесплатная версия не позволяет работать с образами, размером более чем 300 Мб.</p>
+
+<p><code>Поддерживает свыше 30 форматов CD/DVD-образов: *.iso, *.bin, *.cue, *.nrg, *.mdf, *.mds, *.img, *.ccd (включая CD-TEXT), *.sub, *.ima, *.bwi, *.bwt, *.b5t, *.b5i, *.b6t, *.b6i, *.lcd, *.icf, *.pxi, *.vc4, *.000, *.cdi, *.tao, *.dao; ISO-образы с компрессией *.isz (свой формат), *.dmg, *.daa (PowerISO), *.uif (MagicISO); многотомные образы. Может генерировать файлы контрольных сумм *.md5. Поддерживает запись на носители CD-R/RW, DVD-R/RW, DVD+R/RW, DVD-R/+R DL и DVD-RAM.
+Программный интерфейс переведён на 39 языков, включая русский, белорусский и украинский языки.</code></p>
+
+<p><em>Функционал</em> • Создание образов оптических дисков, USB флеш-накопителей, жёстких дисков (максимальный размер образа — 25/50 Гб), дискет (любого размера до 2 Гб). • Создание образов из файлов находящихся на CD/DVD-диске или жёстком диске. • Добавление, удаление, создание папок и файлов внутри образов. • Поддержка всех уровней ISO 9660 и Joliet. • Оптимизация структуры образа диска для экономии места. • Создание загрузочных дисков, дискет с boot-секторами операционных систем DOS (MS-DOS, PC-DOS, FreeDOS и т. д.), Windows NT или syslinux. Создание загрузочных USB • флэш-накопителей с двойным режимом USB-HDD и USB-ZIP. • Возможность извлечения boot-секторов жёсткого диска и дискет • Позволяет использовать образы как виртуальные диски. Может использоваться с DAEMON Tools и Alcohol 120%.</p>
+
+<p><em>ISZ format</em> UltraISO использует собственный формат ISZ. Аббревиатура расшифровывается как «ISO Zipped», но это не просто zip архив. Формат использует ZLIB или BZIP2 для сжатия данных и может поддерживать шифрование AES. Спецификация формата публично доступна на сайте EZB Systems’s. Формат поддерживается и сторонними приложениями, например Daemon Tools.</p>
+
+<p>Загрузить UltraISO PE 9.5.3 Build 2901: <a href='http://dw.ezbsys.net/uiso9_pe.exe'>http://dw.ezbsys.net/uiso9_pe.exe</a></p>
+
+<p><em>Краткая справка написана по материалам http://ru.wikipedia.org/wiki/UltraISO</em></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Revo Uninstaller 1.9.4]]></title>
+    <link href="http://dimadr.github.com/blog/2012/05/15/revo-uninstaller/"/>
+    <updated>2012-05-15T20:18:40+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/05/15/revo-uninstaller</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2012/05/Revo-Uninstaller.png'><img alt='' src='/uploads/2012/05/Revo-Uninstaller.png' /></a></p>
+
+<p>Сегодня &#8220;прибавка&#8221; в рубрику &#8220;Опыт использования&#8221;, связанная с выходом новой версии этой программы - Revo Uninstaller 1.9.4. <strong>Revo Uninstaller</strong> - бесплатная утилита, которая является не просто очередным аналогом стандартного апплета &#8220;Установка и удаление программ&#8221; операционных систем Windows, а объединяет в себе достаточное количество полезных модулей и компонент для выполнения полномасштабной очистки компьютера. Revo Uninstaller работает эффективнее стандартных средств Windows, благодаря тому, что до и после деинсталляции проводит сканирование системы, обнаруживая и удаляя все внесенные удаляемой программой изменения (файлы, папки, ключи реестра).</p>
+
+<p>Тут присутствует удобный инструмент &#8220;Hunter Mode&#8221;, который позволяет посредством простого перетаскивания ярлыка программы в специальное плавающее окошко получать быстрый доступ ко всем связанным с программой функциям (удаление, запуск и закрытие приложения, управление автозагрузкой).</p>
+
+<p><a href='/uploads/2012/05/Revo-Uninstaller-Free.png'><img alt='' src='/uploads/2012/05/Revo-Uninstaller-Free-300x220.png' /></a></p>
+
+<p>Кроме того, в Revo Uninstaller есть возможность удаления с компьютера ненужных файлов, очистки данных истории использования разных браузеров (Firefox, Internet Explorer, Netscape и Opera), офисного пакета Microsoft Office и стандартных средств Windows, а также функция удаления файлов и папок без возможности их восстановления.</p>
+
+<p><strong>Особенности Revo Uninstaller:</strong> * Легкая и корректная деинсталляция приложений * Возможность просмотра деталей о всех установленных в системе приложений * Инновационный режим «Охотник» для деинсталляции и удаления приложений</p>
+
+<ul>
+<li>Поддержка метода «Drag&Drop;»</li>
+
+<li>Просмотр и управление приложениями, автоматически запускающихся во время загрузки Windows * Удаление ненужных и временных файлов из системы</li>
+
+<li>Быстрый доступ к встроенным инструментам Windows</li>
+
+<li>Очистка истории в браузерах Internet Explorer, Firefox, Opera и Netscape * Удаление файлов без какой-либо возможности их восстановления * И многое другое…</li>
+</ul>
+
+<p>Изменения в версии 1.9.4: • Исправлены мелкие ошибки • Обновлены файлы локализации</p>
+
+<p><a href='http://www.revouninstaller.com/download/revosetup.exe'>Загрузить Revo Uninstaller 1.9.4 Free</a></p>]]></content>
+  </entry>
+  
+</feed>

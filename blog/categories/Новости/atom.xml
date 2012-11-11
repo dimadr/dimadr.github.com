@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Новости | dimadr's blog]]></title>
+  <link href="http://dimadr.github.com/blog/categories/Новости/atom.xml" rel="self"/>
+  <link href="http://dimadr.github.com/"/>
+  <updated>2012-11-11T20:26:37+04:00</updated>
+  <id>http://dimadr.github.com/</id>
+  <author>
+    <name><![CDATA[Dmitry Dremin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Dropbox desktop client 1.5.47 Release Candidate / Dropbox desktop client 1.4.21 Stable]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/09/dropbox-client/"/>
+    <updated>2012-11-09T12:00:02+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/09/dropbox-client</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2010/12/dropbox.png'><img alt='' src='/uploads/2010/12/dropbox-300x300.png' /></a></p>
+
+<p>09 ноября 2012 года - <strong>Dropbox desktop client 1.5.47 RC</strong>. 08 ноября 2012 года - <strong><a href='http://dl-web.dropbox.com/u/17/Dropbox%201.4.21.exe'>Dropbox desktop client 1.4.21 Final</a></strong>.</p>
+
+<p><em>Краткая справка Для обмена файлами по средствам глобальной сети интернет, пользователь может найти достаточно приложений, но, как правило, они все требуют некоторые навыки в их использовании, а иногда достаточно большие для грамотной настройки обмена данными. Совокупность интернет сервиса Dropbox и не большого одноименного приложения позволяет пользователю без всяких настроек организовать обмен файлами с другим пользователем. Зарегистрировавшись, мы получаем 2 Гб дискового пространства для наших целей. А после установки приложения Dropbox на компьютер, которое работает в фоновом режиме, можно сразу использовать все возможности сервиса.</em> <strong>Лицензия: Freeware.</strong></p>
+
+<p><strong>p.s.</strong> Подробности использования программы читайте в <a href='http://dimadr.ru/?p=233'>обзоре</a> на нашем сайте.</p>
+
+<p>Загрузить <strong>Dropbox desktop client 1.4.21 Stable</strong>: <a href='https://www.dropbox.com/downloading?os=win'>Windows x86/x64</a> <a href='https://www.dropbox.com/downloading?os=mac'>Mac OS X 10.4+</a> <a href='https://www.dropbox.com/downloading?os=lnx'>Linux x86/x64</a></p>
+
+<p>Загрузить <strong>Dropbox desktop client 1.5.47 Release Candidate</strong>: <a href='https://dl-web.dropbox.com/u/17/Dropbox%201.5.47.exe'>Windows x86/x64</a> <a href='https://dl-web.dropbox.com/u/17/Dropbox%201.5.47.dmg'>Mac OS X 10.4+</a> <a href='https://dl-web.dropbox.com/u/17/dropbox-lnx.x86_64-1.5.47.tar.gz'>Linux x86/x64</a> <a href='https://dl-web.dropbox.com/u/17/dropbox-lnx.x86-1.5.46.tar.gz'>Linux x86</a></p>
+
+<p><a href='/uploads/2011/05/dropbox.jpg'><img alt='' src='/uploads/2011/05/dropbox-300x133.jpg' /></a></p>
+
+<pre><code>&lt;code&gt;&lt;small&gt;&lt;em&gt;&lt;a href=&quot;http://forums.dropbox.com&quot; target=&quot;_blank&quot;&gt;Лог изменений 1.5.47&lt;/a&gt;
+build (1.5.47)
+• Fix a rare crash at startup on OS X
+• Fix System Windows (e.g. Move Dropbox) showing up in the wrong language in OS X
+• Other small fixes
+
+Features in 1.5
+• New icons! (Retina support!)
+• Improved performance through use of Python 2.7
+• New Mac installer (just double click!)
+• Mountain Lion Notification Center support
+• Faster startup time for Mac users with lots of files
+• Improved web login from client
+• Fixed context menu delay on Mac (you&#39;re welcome Arash!)
+&lt;/em&gt;&lt;/small&gt;&lt;/code&gt;</code></pre>
+
+<p>А какой вы используете сервис для хранения данных? Может <a href='http://disk.yandex.ru'>Яндекс.Диск</a> или <a href='https://drive.google.com/start'>Google Drive</a>? Чтобы проще было выбирать: <a href='/uploads/2012/04/Сравнительная-таблица.jpg'><img alt='' src='/uploads/2012/04/Сравнительная-таблица-300x136.jpg' /></a> Ролик об использовании <a href='http://www.youtube.com/watch?v=V6Q4CwO_tFY&amp;feature=colike'>Яндекс.Диска</a>.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Microsoft Security Bulletin для Windows XP SP3 от 13 ноября 2012 г.]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/09/msb-november-2012/"/>
+    <updated>2012-11-09T03:00:00+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/09/msb-november-2012</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2010/08/20081217_microsoft.jpg'><img alt='' src='/uploads/2010/08/20081217_microsoft.jpg' /></a></p>
+
+<p><a href='http://technet.microsoft.com/en-us/security/bulletin/ms12-nov'>Microsoft Security Bulletin Advance Notification от 13 ноября 2012 г.</a> Предварительно будет четыре обновления, включая MRT.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Adobe Flash Player 11.5.502.113 Beta / Adobe Flash Player 11.5.502.110 Final]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/09/adobe-flash-player/"/>
+    <updated>2012-11-09T02:15:25+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/09/adobe-flash-player</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2011/09/Adobe_Flash_Player_icon.png'><img alt='' src='/uploads/2011/09/Adobe_Flash_Player_icon.png' /></a></p>
+
+<p>08 ноября 2012 года - Adobe Flash Player 11.5.502.113 Beta. 06 ноября 2012 года - Adobe Flash Player 11.5.502.110 Stable для IE, Firefox, Safari, Opera.</p>
+
+<pre><code>&lt;code&gt;
+Изменения в версии &lt;a href=&quot;http://www.adobe.com/support/security/bulletins/apsb12-24.html&quot; target=&quot;_blank&quot;&gt;Adobe Flash Player 11.5.502.110 Final&lt;/a&gt;:
+• Это обновление решает проблему переполнения буфера, приводящее к уязвимостям: (CVE-2012-5274, CVE-2012-5275, CVE-2012-5276, CVE-2012-5277, CVE-2012-5280).
+• These updates resolve memory corruption vulnerabilities that could lead to code execution (CVE-2012-5279).
+• These updates resolve a security bypass vulnerability that could lead to code execution (CVE-2012-5278).
+&lt;/code&gt;</code></pre>
+
+<p><em>Краткая справка</em> Adobe Flash Player - плагин для браузеров Internet Explorer, Firefox, Safari и Opera, представляющий собой инструмент для воспроизведения flash-контента (SWF, FLV файлы). Это могут быть различного рода интерактивные приложения, видеоролики, анимация, игры и т.д., основанные на flash-технологии. Без установленного Flash Player все вышеперечисленное либо не будет отображаться вообще, либо flash-приложения будут отображаться некорректно.</p>
+
+<p>Будьте внимательны при выборе ссылки для загрузки Adobe Flash Player. Он доступен в двух версиях, отдельно для браузера Internet Explorer и отдельно для всех остальных браузеров, включая Firefox, Chrome, Safari, Opera.</p>
+
+<p>Загрузить Adobe Flash Player 11.5.502.113 Beta: <a href='http://labsdownload.adobe.com/pub/labs/flashplatformruntimes/flashplayer11-5/flashplayer11-5_install_win_ax.exe'>Adobe Flash Player 11.5.502.113 Beta for (Internet Explorer &amp; AOL)</a> <a href='http://labsdownload.adobe.com/pub/labs/flashplatformruntimes/flashplayer11-5/flashplayer11-5_install_win_pi.exe'>Adobe Flash Player 11.5.502.113 Beta for (Firefox, Netscape, Safari &amp; Opera)</a> <a href='http://labsdownload.adobe.com/pub/labs/flashplatformruntimes/flashplayer11-5/flashplayer11-5_install_mac.dmg'>Adobe Flash Player 11.5.502.113 Beta for (Mac OS X)</a></p>
+
+<p>Загрузить Adobe Flash Player 11.5.502.110 Stable: <a href='http://download.macromedia.com/get/flashplayer/current/licensing/win/install_flash_player_11_active_x.exe'>Adobe Flash Player 11.5.502.110 Final for (Internet Explorer &amp; AOL)</a> <a href='http://download.macromedia.com/get/flashplayer/current/licensing/win/install_flash_player_11_plugin.exe'>Adobe Flash Player 11.5.502.110 Final for (Firefox, Netscape, Safari &amp; Opera)</a> <a href='http://fpdownload.macromedia.com/get/flashplayer/pdc/11.5.502.110/install_flash_player_osx.dmg'>Adobe Flash Player 11.5.502.110 Final for (Mac OS X)</a></p>
+
+<p>Внимание: В целях исключения ошибок перед установкой новой версии Flash Player разработчики рекомендуют сначала удалить ранее используемую версию плагина, например с помощью специальной утилиты для <a href='http://download.macromedia.com/get/flashplayer/current/support/uninstall_flash_player.exe'>x86 &amp; x64</a>.</p>
+
+<p><em>Copyright © 2012 Adobe Systems Incorporated. All rights reserved.</em></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Apple Safari 6.0.2]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/02/apple-safari-6-0-2/"/>
+    <updated>2012-11-02T13:25:23+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/02/apple-safari-6-0-2</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2012/11/Safari_logo.png'><img alt='' src='/uploads/2012/11/Safari_logo.png' /></a></p>
+
+<p>01 ноября 2012 - список обновлений пополнился браузером <a href='http://support.apple.com/kb/HT5568'>Apple Safari 6.0.2</a>. Apple рекомендует обязательное обновление, так как новая версия содержит исправления повышающие безопасность и стабильность браузера. Для тех у кого ошибка в App Store при обновлении Safari 6.0.2 - direct <a href='http://swcdn.apple.com/content/downloads/53/02/041-8081/2jwp4wjrwygtm4lc608qy4h0n4a9yyq37g/Safari6.0.2Mountain.pkg'>link</a>.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Apple iOS 6.0.1 / iOS 6.1 Beta]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/02/apple-ios-6-0-1/"/>
+    <updated>2012-11-02T01:51:04+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/02/apple-ios-6-0-1</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2012/09/iOS6.png'><img alt='' src='/uploads/2012/09/iOS6-300x103.png' /></a></p>
+
+<p>01 ноября 2012 года - компания Apple обновила операционную систему для мобильных устройств до версии 6.0.1. Сегодня же Apple выпустила <a href='https://developer.apple.com/'>релиз iOS 6.1 Beta</a> для разработчиков. Beta имеет номер билда 10B5095f, в то время как iOS 6.0.1 версии 10A523 (10A525 для iPhone 5).</p>
+
+<p><a href='/uploads/2012/11/iOS-6.0.1.png'><img alt='' src='/uploads/2012/11/iOS-6.0.1-200x300.png' /></a></p>
+
+<p><a href='http://support.apple.com/kb/DL1606'>Список изменений</a>: Данное обновление содержит улучшения и исправления ошибок, включая следующие: • Исправлена ошибка, препятствовавшая установке устройством iPhone 5 обновлений ПО беспроводным способом. • Исправлена ошибка, которая могла приводить к отображению горизонтальных линий поверх клавиатуры. • Устранена проблема, которая могла приводить к отказам в работе вспышки камеры. • Повышен уровень надежности работы iPhone 5 и iPod touch (5-го поколения) при подключении к зашифрованным сетям Wi-Fi WPA2. • Устранена проблема, в некоторых случаях препятствовавшая использованию устройством iPhone сотовых сетей. • Представлен единый переключатель «Сотовые данные» для iTunes Match. • Исправлена ошибка с защитой паролем, которая в отдельных случаях могла приводить к предоставлению доступа к информации карт Passbook с заблокированного экрана. • Исправлена ошибка, влиявшая на функциональность собраний Exchange.</p>
+
+<p><a href='http://appldnld.apple.com/iOS6/041-8530.20121101.svtly/iPhone5,1_6.0.1_10A525_Restore.ipsw'>Скачать</a> iOS 6.0.1 для iPhone 5 GSM <a href='http://appldnld.apple.com/iOS6/041-8531.20121101.Fvjr6/iPhone5,2_6.0.1_10A525_Restore.ipsw'>Скачать</a> iOS 6.0.1 для iPhone 5 CDMA <a href='http://appldnld.apple.com/iOS6/041-7953.20121101.Apmtr/iPhone4,1_6.0.1_10A523_Restore.ipsw'>Скачать</a> iOS 6.0.1 для iPhone 4S <a href='http://appldnld.apple.com/iOS6/041-7950.20121101.Lmr45/iPhone3,1_6.0.1_10A523_Restore.ipsw'>Скачать</a> iOS 6.0.1 для iPhone 4 GSM <a href='http://appldnld.apple.com/iOS6/041-7952.20121101.aClm5/iPhone3,3_6.0.1_10A523_Restore.ipsw'>Скачать</a> iOS 6.0.1 для iPhone 4 CDMA <a href='http://appldnld.apple.com/iOS6/041-7949.20121101.Ortn5/iPhone2,1_6.0.1_10A523_Restore.ipsw'>Скачать</a> iOS 6.0.1 для iPhone 3GS <a href='http://appldnld.apple.com/iOS6/041-7859.20121101.gys65/iPad2,5_6.0.1_10A523_Restore.ipsw'>Скачать</a> iOS 6.0.1 для iPad mini <a href='http://appldnld.apple.com/iOS6/041-7858.20121101.Hbhy6/iPad3,4_6.0.1_10A523_Restore.ipsw'>Скачать</a> iOS 6.0.1 для iPad 4 Скачать iOS 6.0.1 для iPad 3 (<a href='http://appldnld.apple.com/iOS6/041-7941.20121101.Sami5/iPad3,2_6.0.1_10A523_Restore.ipsw'>GSM</a>, <a href='http://appldnld.apple.com/iOS6/041-7943.20121101.DuI5t/iPad3,3_6.0.1_10A523_Restore.ipsw'>CDMA</a>, <a href='http://appldnld.apple.com/iOS6/041-7940.20121101.Sand6/iPad3,1_6.0.1_10A523_Restore.ipsw'>WiFi</a>) Скачать iOS 6.0.1 для iPad 2 (<a href='http://appldnld.apple.com/iOS6/041-7945.20121101.Ofr42/iPad2,2_6.0.1_10A523_Restore.ipsw'>GSM</a>, <a href='http://appldnld.apple.com/iOS6/041-7946.20121101.Mxs3e/iPad2,3_6.0.1_10A523_Restore.ipsw'>CDMA</a>, <a href='http://appldnld.apple.com/iOS6/041-7942.20121101.Intn3/iPad2,1_6.0.1_10A523_Restore.ipsw'>WiFi</a>) <a href='http://appldnld.apple.com/iOS6/041-7439.20121101.rgt54/iPod4,1_6.0.1_10A523_Restore.ipsw'>Скачать</a> iOS 6.0.1 для iPod touch 4G <a href='http://appldnld.apple.com/iOS6/041-7438.20121101.Usre4/iPod5,1_6.0.1_10A523_Restore.ipsw'>Скачать</a> iOS 6.0.1 для iPod touch 5G</p>
+<hr />
+<p><a href='/uploads/2012/11/ios61beta.png'><img alt='' src='/uploads/2012/11/ios61beta-300x169.png' /></a></p>
+
+<p>Apple, упоминает ряд изменений и известных проблем, в том числе несколько из них связаны с интегрированием нового сервиса карт, а также обработкой посадочных талонов в Passbook, и несколько незначительных изменений в Safari.</p>]]></content>
+  </entry>
+  
+</feed>

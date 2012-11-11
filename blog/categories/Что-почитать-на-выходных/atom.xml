@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Что почитать на выходных | dimadr's blog]]></title>
+  <link href="http://dimadr.github.com/blog/categories/Что-почитать-на-выходных/atom.xml" rel="self"/>
+  <link href="http://dimadr.github.com/"/>
+  <updated>2012-11-11T20:26:37+04:00</updated>
+  <id>http://dimadr.github.com/</id>
+  <author>
+    <name><![CDATA[Dmitry Dremin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Что почитать на выходных №2]]></title>
+    <link href="http://dimadr.github.com/blog/2012/08/25/links2/"/>
+    <updated>2012-08-25T22:06:04+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/08/25/links2</id>
+    <content type="html"><![CDATA[<p>Apple vs Samsung - <a href='http://www.macrumors.com/2012/08/25/jury-members-discuss-thought-process-behind-apple-vs-samsung-verdict/'>вердикт</a> вынесен. Apple Seeds <a href='http://www.macrumors.com/2012/08/24/apple-seeds-safari-6-0-1-for-os-x-lion-to-developers/'>Safari 6.0.1 for OS X Lion</a> to Developers - разработчики получили новую версию браузера Safari. <a href='https://plus.google.com/u/0/112795724355745109011/posts/38EQyKGxniQ'>Ubuntu</a> - 21 год как один миг.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Что почитать на выходных №1]]></title>
+    <link href="http://dimadr.github.com/blog/2012/08/24/link1/"/>
+    <updated>2012-08-24T00:06:58+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/08/24/link1</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2012/08/links.jpg'><img alt='' src='/uploads/2012/08/links-300x228.jpg' /></a></p>
+
+<p>Данная рубрика будет содержать ссылки материалы, которые мне показались интересными к изучению. Данная рубрика не нова, используется несколькими ведущими блогерами, но думаю мы по разному определяем интересное.</p>
+
+<p>α. Microsoft <a href='http://msdn.microsoft.com/ru-ru/evalcenter/jj554510.aspx'>Windows 8 Enterprise 90-Day</a> Evaluation for developers - <a href='http://www.outsidethebox.ms/13950/'>подробнее</a>. β. Microsoft сменила логотип, действовавший с 1987 года - <a href='http://blogs.technet.com/b/microsoft_blog/archive/2012/08/23/microsoft-unveils-a-new-look.aspx'>подробнее</a>. γ. &#8220;Microsoft Windows 8. Первое знакомство&#8221; автор Колисниченко Д. - <a href='http://www.bhv.ru/books/full_contents.php?id=189601'>подробнее</a>. δ. Apple выпускает Mac OS X 10.8.1 Mountain Lion - <a href='http://dimadr.ru/mac-os-x-10-8-1-mountain-lion/'>подробнее</a>. ε. Следом за новым Mac OS X 10.8.1 Mountain Lion выходит Mac OS X 10.8.2 для разработчиков, релиз которого возможно будет одновременно с iOS 6 - <a href='http://9to5mac.com/2012/08/22/apple-preparing-to-seed-os-x-mountain-lion-10-8-2-to-developers/'>подробнее</a> или <a href='http://www.macrumors.com/2012/08/23/apple-seeds-first-developer-build-of-os-x-10-8-2/'>здесь</a>.</p>]]></content>
+  </entry>
+  
+</feed>

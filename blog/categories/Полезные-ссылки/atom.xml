@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Полезные ссылки | dimadr's blog]]></title>
+  <link href="http://dimadr.github.com/blog/categories/Полезные-ссылки/atom.xml" rel="self"/>
+  <link href="http://dimadr.github.com/"/>
+  <updated>2012-11-11T20:26:37+04:00</updated>
+  <id>http://dimadr.github.com/</id>
+  <author>
+    <name><![CDATA[Dmitry Dremin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Полезные ссылки [update]]]></title>
+    <link href="http://dimadr.github.com/blog/2012/10/15/quick-links/"/>
+    <updated>2012-10-15T14:30:29+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/10/15/quick-links</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2012/05/Links.png'><img alt='' src='/uploads/2012/05/Links-300x261.png' /></a></p>
+
+<p>Иногда нужно быстро получить доступ к странице загрузки того и иного продукта. Как правило на сайтах производителей нужно пройти квест или несколько переходов, а иногда итого хуже, вам вручат какой-нибудь Cnet загрузчик. Именно для прямого доступа к файлам я попробую собрать в одном месте прямые ссылки на продукты, если получится найти, то статические.</p>
+
+<p><a href='/uploads/2012/05/7zip.png'><img alt='' src='/uploads/2012/05/7zip.png' /></a></p>
+
+<p><a href='http://dl.7-zip.org/7z930.exe'>7-Zip for 32-bit Windows</a> or <a href='http://dl.7-zip.org/7z930.msi'>зеркало msi</a> &amp; <a href='http://dl.7-zip.org/7z930-x64.msi'>7-Zip for 64-bit Windows x64</a> - свободный файловый архиватор с высокой степенью сжатия данных.</p>
+<hr />
+<p><a href='/uploads/2011/09/Adobe_Flash_Player_icon.png'><img alt='' src='/uploads/2011/09/Adobe_Flash_Player_icon-150x150.png' /></a></p>
+
+<p>Загрузить Adobe Flash Player 11 Stable: <a href='http://download.macromedia.com/get/flashplayer/current/licensing/win/install_flash_player_11_active_x.exe'>Adobe Flash Player 11 x86/x64 for (Internet Explorer &amp; AOL)</a> <a href='http://download.macromedia.com/get/flashplayer/current/licensing/win/install_flash_player_11_plugin.exe'>Adobe Flash Player 11 x86/x64 for (Firefox, Netscape, Safari &amp; Opera)</a> <a href='http://download.macromedia.com/pub/flashplayer/current/uninstall_flash_player_32bit.exe'>Uninstaller for Flash player x86</a> &amp; <a href='http://download.macromedia.com/pub/flashplayer/current/uninstall_flash_player_64bit.exe'>Uninstaller for Flash player x64</a></p>
+<hr />
+<p><a href='/uploads/2012/05/akelpad.png'><img alt='' src='/uploads/2012/05/akelpad.png' /></a></p>
+
+<p><a href='http://akelpad.sourceforge.net/ru/download.php'>AkelPad</a> - текстовый редактор с открытым исходным кодом, созданный, чтобы быть маленьким и быстрым.</p>
+<hr />
+<p><a href='/uploads/2010/12/Avast_logo.png'><img alt='' src='/uploads/2010/12/Avast_logo-150x150.png' /></a></p>
+
+<p><a href='http://files.avast.com/iavs5x/avast_free_antivirus_setup.exe'>avast! Free Edition</a> Multilingual for Windows &amp; <a href='http://download.ff.avast.com/mac/avast_free_antivirus_mac_setup.dmg'>avast! Free Edition for Mac</a> - бесплатный антивирус, содержит модули и функции соотвествующие у некоторых вендоров платным аналогам.</p>
+<hr />
+<p><a href='/uploads/2010/12/avira.png'><img alt='' src='/uploads/2010/12/avira-150x150.png' /></a></p>
+
+<p><a href='http://www.avira.com/ru/downloads'>Avira Free Antivirus</a> - бесплатная антивирусная программа, эффективно удаляющая рекламное ПО, руткиты и другие вредоносные программы.</p>
+<hr />
+<p><a href='/uploads/2012/05/Auslogics_Registry_Cleaner.png'><img alt='' src='/uploads/2012/05/Auslogics_Registry_Cleaner.png' /></a></p>
+
+<p><a href='http://www.auslogics.com/ru/downloads/registry-cleaner/registry-cleaner-setup.exe'>Auslogics Registry Cleaner</a> - исправляет ошибки в реестре Windows, а именно &#8220;битые&#8221; ссылки, ссылки на отсутствующие файлы и т.п.</p>
+
+<p><a href='http://www.auslogics.com/ru/downloads/registry-defrag/registry-defrag-setup.exe'>Auslogics Registry Defrag</a> - дефрагментатор реестра Windows. Улучшает производительность компьютера за счет оптимизации структуры реестра.</p>
+<hr />
+<p><a href='/uploads/2011/06/ccleaner.png'><img alt='' src='/uploads/2011/06/ccleaner-150x150.png' /></a></p>
+
+<p><a href='http://www.piriform.com/ccleaner/builds'>CCleaner for Windows</a> &amp; <a href='http://www.piriform.com/mac/ccleaner'>CCleaner for Mac OS X</a> - бесплатная программа для оптимизации системы, инструмент обеспечения приватности.</p>
+<hr />
+<p><a href='/uploads/2012/05/cdburnerxp-logo.png'><img alt='' src='/uploads/2012/05/cdburnerxp-logo.png' /></a></p>
+
+<p><a href='http://cdburnerxp.se/downloadsetup.exe'>CDBurnerXP x86</a> &amp; <a href='http://cdburnerxp.se/downloadsetup.exe?x64'>CDBurnerXP x64</a> - <a href='http://cdburnerxp.se/ru/download?more-options'>бесплатная программа</a> для записи CD, DVD, Blu-Ray и HD-DVD дисков.</p>
+<hr />
+<p><a href='/uploads/2011/01/comodo.png'><img alt='' src='/uploads/2011/01/comodo.png' /></a></p>
+
+<p><a href='http://download.comodo.com/cis/download/installs/1000/standalone/cispremium_installer.exe'>COMODO Internet Security Premium</a> - комплексное бесплатное решение. Защищает от вирусов и Интернет атак, включает антивирус и антишпион, персональный фаервол и модуль проактивной защиты от вредоносных программ Comodo Защита+</p>
+<hr />
+<p><a href='/uploads/2011/05/Chrome.png'><img alt='' src='/uploads/2011/05/Chrome-150x150.png' /></a></p>
+
+<p><a href='http://www.google.com/chrome/eula.html'>Google Chrome</a> - бесплатный браузер, позволяющий эффективно работать как с простыми документами и страницами, так и со сложными интернет-сервисами и приложениями. Независимость каждой вкладки позволяет не беспокоиться о возможной потери данных при зависании отдельных вкладок. Собственный скриптовый движок V8 обеспечивает максимальную производительность интернет-приложений (<a href='http://google.com/chrome/eula.html?standalone=1'>offline stable версия</a>).</p>
+<hr />
+<p><a href='/uploads/2011/12/malwarebytes.png'><img alt='' src='/uploads/2011/12/malwarebytes-150x150.png' /></a></p>
+
+<p><a href='http://www.malwarebytes.org/mbam-download-exe'>Malwarebytes Anti-Malware</a> - программа для быстрого сканирования системы с целью обнаружения и удаления различных видов вредоносного ПО.</p>
+<hr />
+<p><a href='/uploads/2011/09/Hitman_Pro.png'><img alt='' src='/uploads/2011/09/Hitman_Pro-150x150.png' /></a></p>
+
+<p><a href='http://files.surfright.nl/HitmanPro36.exe'>HitmanPro x86</a> &amp; <a href='http://files.surfright.nl/HitmanPro36_x64.exe'>HitmanPro x64</a> - сканер для выявления различных вредоносных программ.</p>
+<hr />
+<p><a href='/uploads/2012/05/Directx.png'><img alt='' src='/uploads/2012/05/Directx-150x150.png' /></a></p>
+
+<p><a href='http://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe'>Microsoft DirectX®</a> для Windows - это ряд технологий, благодаря которым компьютеры на основе Windows становятся идеальной средой для запуска и отображения приложений, богатых элементами мультимедиа, такими как цветная графика, видео, трехмерная анимация и стереозвук. DirectX включает обновления, повышающие безопасность и производительность, а также новые функции, относящиеся к различным технологиям, к которым приложение может обращаться с помощью DirectX API.</p>
+<hr />
+<p><a href='/uploads/2011/04/firefox.png'><img alt='' src='/uploads/2011/04/firefox-150x150.png' /></a></p>
+
+<p><a href='http://www.mozilla.com'>Mozilla Firefox</a> - бесплатный веб-браузер <a href='ftp://ftp.mozilla.org/pub/firefox/releases/'>Mozilla Firefox</a> создан глобальной некоммерческой организацией.</p>
+<hr />
+<p><a href='/uploads/2012/06/java.png'><img alt='' src='/uploads/2012/06/java-150x150.png' /></a></p>
+
+<p><a href='http://www.oracle.com/technetwork/java/javase/downloads/index.html'>Java™ SE</a> Runtime Environment - <a href='http://www.java.com/ru/about/'>подробности</a>.</p>
+<hr />
+<p><a href='/uploads/2011/04/new_opera_logo.png'><img alt='' src='/uploads/2011/04/new_opera_logo-150x150.png' /></a></p>
+
+<p><a href='http://www.opera.com'>Opera</a> - веб-браузеры, которые можно бесплатно и легко загрузить, для компьютеров, мобильных телефонов и устройств.</p>
+<hr />
+<p><a href='/uploads/2010/12/pandausbvaccine.jpg'><img alt='' src='/uploads/2010/12/pandausbvaccine-150x150.jpg' /></a></p>
+
+<p><a href='http://acs.pandasoftware.com/cloud/CloudAntivirus.exe'>Panda Cloud Antivirus Free</a> - бесплатный «облачный» антивирус для защиты компьютеров от вирусов, шпионов, руткитов и прочего вредоносного ПО.</p>
+<hr />
+<p><a href='/uploads/2012/05/Full_Trash.png'><img alt='' src='/uploads/2012/05/Full_Trash-150x150.png' /></a></p>
+
+<p><a href='http://www.revouninstaller.com/download/revosetup.exe'>Revo Uninstaller</a> - программа для корректного и полного удаления программ в операционных системах семейства Windows.</p>
+<hr />
+<p><a href='/uploads/2012/05/teamviewermini.png'><img alt='' src='/uploads/2012/05/teamviewermini.png' /></a></p>
+
+<p><a href='http://www.teamviewer.com/download/TeamViewer_Setup_ru.exe'>TeamViewer</a> &amp; <a href='http://www.teamviewer.com/download/TeamViewerQS_ru.exe'>TeamViewer QuickSupport</a> - решение &#8220;всё в одном&#8221; для удалённого доступа и поддержки через Интернет.</p>
+<hr />
+<p><a href='/uploads/2012/05/WinRar.png'><img alt='' src='/uploads/2012/05/WinRar-150x150.png' /></a></p>
+
+<p><a href='http://www.rarlabs.com/download.htm'>WinRar</a> - мощная утилита для создания и управления архивами, содержащая целый спектр дополнительных полезных функций.</p>]]></content>
+  </entry>
+  
+</feed>

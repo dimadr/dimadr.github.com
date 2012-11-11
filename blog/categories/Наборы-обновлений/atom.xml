@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Наборы обновлений | dimadr's blog]]></title>
+  <link href="http://dimadr.github.com/blog/categories/Наборы-обновлений/atom.xml" rel="self"/>
+  <link href="http://dimadr.github.com/"/>
+  <updated>2012-11-11T20:26:37+04:00</updated>
+  <id>http://dimadr.github.com/</id>
+  <author>
+    <name><![CDATA[Dmitry Dremin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Microsoft Office 2007 Service Pack 3]]></title>
+    <link href="http://dimadr.github.com/blog/2011/10/26/microsoft-office-2007-sp3/"/>
+    <updated>2011-10-26T17:48:27+04:00</updated>
+    <id>http://dimadr.github.com/blog/2011/10/26/microsoft-office-2007-sp3</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2011/06/Microsoft-Office-2010-Logo.png'><img alt='' src='/uploads/2011/06/Microsoft-Office-2010-Logo-300x300.png' /></a></p>
+
+<p>Пакет обновления 3 (SP3) содержит последние обновления для выпуска 2007 набора приложений Microsoft Office, в том числе приложений Microsoft Office Project, Microsoft Office SharePoint Designer, Microsoft Office Visio и Visual Web Developer.</p>
+
+<p>Поскольку Office пакеты обновления являются накопительными, нет необходимости устанавливать пакет обновления 1 или пакет обновления 2, перед установкой пакета обновления 3. Пакет обновления 3 содержит все исправления, которые были включены в пакет обновления 1 (SP1) и в пакет обновления 2 (SP2).</p>
+
+<p>Загрузить <a href='http://www.microsoft.com/downloads/ru-ru/details.aspx?FamilyID=0e40bbe7-1422-40ea-912d-2a29d709f93f'>Microsoft Office 2007 Service Pack 3 русский</a> или выбрать локализацию <a href='http://www.microsoft.com/download/en/details.aspx?id=27838'>здесь</a>.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Пакет обновления 1 (SP1) для Windows 7]]></title>
+    <link href="http://dimadr.github.com/blog/2011/03/16/service-pack-1-windows-7/"/>
+    <updated>2011-03-16T00:00:31+03:00</updated>
+    <id>http://dimadr.github.com/blog/2011/03/16/service-pack-1-windows-7</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2010/08/20081217_microsoft.jpg'><img alt='' src='/uploads/2010/08/20081217_microsoft.jpg' /></a></p>
+
+<p>Пакет обновления 1 (SP1) для Windows 7 помогает сохранять максимальный уровень поддержки настольных компьютеров. Он также обеспечивает постоянное улучшение операционных систем (ОС) Windows, поскольку включает ранее выпущенные обновления, доставляемые из Центра обновления Windows, а также накопительные добавочные обновления платформ Windows 7, разработанные на основе отзывов пользователей и партнеров. Благодаря этому пакету организации могут развертывать единый набор обновлений.</p>
+
+<p>Пакет обновления 1 (SP1) для Windows 7 предоставляет следующие преимущества.</p>
+
+<p>• Обеспечение поддержки и обновления компьютеров. • Текущие обновления для платформы Windows 7. • Удобное одновременное развертывание накопительных обновлений. • Удовлетворение потребностей пользователей в большей мобильности бизнеса. • Полный набор инновационных средств виртуализации. • Более удобное развертывание пакета обновления, повышающее эффективность ИТ-структуры.</p>
+
+<p><a href='http://www.microsoft.com/downloads/ru-ru/details.aspx?familyid=c3202ce6-4056-4059-8a1b-3a9b77cdfdda'>Страница загрузки</a> пакета обновлений 1 SP1 для Windows 7. (<a href='http://www.microsoft.com/download/en/details.aspx?id=5842'>English version</a>)</p>
+
+<p><em>© 2012 Microsoft</em></p>]]></content>
+  </entry>
+  
+</feed>

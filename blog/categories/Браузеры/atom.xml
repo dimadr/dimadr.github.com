@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Браузеры | dimadr's blog]]></title>
+  <link href="http://dimadr.github.com/blog/categories/Браузеры/atom.xml" rel="self"/>
+  <link href="http://dimadr.github.com/"/>
+  <updated>2012-11-11T20:26:37+04:00</updated>
+  <id>http://dimadr.github.com/</id>
+  <author>
+    <name><![CDATA[Dmitry Dremin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Opera 12.11 Build 1655 Dev / Opera 12.10 Build 1652 Final / Opera "Marlin" 12.50 Build 1583 Dev]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/10/opera-wahoo-12-00/"/>
+    <updated>2012-11-10T00:00:19+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/10/opera-wahoo-12-00</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2012/07/fish-marlin.png'><img alt='' src='/uploads/2012/07/fish-marlin.png' /></a></p>
+
+<p>09 ноября 2012 года - Opera 12.11 Build 1655 Snapshot &#8220;Important crashfixes&#8221;. 05 ноября 2012 года - Opera 12.10 Build 1652 Final. 06 сентября 2012 года - новый билд браузера, Opera &#8220;Marlin&#8221; 12.50 Build 1583 Dev.</p>
+
+<pre><code>&lt;code&gt;
+09 ноября 2012 года - &lt;a href=&quot;http://my.opera.com/desktopteam/blog/2012/11/09/important-crashfixes&quot; target=&quot;_blank&quot;&gt;лог изменений для Opera 12.11 Build 1655 Dev&lt;/a&gt;
+06 сентября 2012 года - &lt;a href=&quot;http://my.opera.com/desktopteam/blog/2012/09/06/increased-security-when-installing-extensions&quot; target=&quot;_blank&quot;&gt;лог изменений для Opera &quot;Marlin&quot; 12.50 Build 1583 Dev&lt;/a&gt;
+29 августа 2012 года - &lt;a href=&quot;http://www.opera.com/docs/changelogs/unified/1202/&quot; target=&quot;_blank&quot;&gt;лог изменений для Opera “Wahoo” 12.02 build 1578 Final&lt;/a&gt;
+&lt;/code&gt;</code></pre>
+
+<p>Opera - мощная бесплатная программа предоставляющая множество удобных функций для навигации в Интернете. Сегодня это уже не только браузер, но и большой набор других полезных сервисов и услуг, среди которых можно выделить отсылку и получение электронной почты, загрузка файлов, доступ к ftp-серверам, ведение списка контактов и другое&#8230; По результатам независимых тестов Opera считается одним из самых быстрых браузеров.</p>
+
+<p>Среди особенностей браузера можно выделить широкие возможности по навигации в одном окне программы а также возможности масштабирования документов отображаемых в нем. Одной из &#8220;фирменных&#8221; особенностей является навигация с помощью специальных движений мышкой.</p>
+
+<p>Некоторые возможности и особенности Opera: - Поддержка P2P-протокола BitTorrent. Искать и скачивать торент-ссылки возможно прямо из Opera. - Возможность блокировки любого содержания веб-страниц (рекламы, изображений и т. п.). - Поиск в интегрированной поисковой системе с использованием большинства известных онлайн сервисов (Google, eBay, Amazon). - Возможность установки своих настроек для отображения сайтов. - Виджеты - небольшие плагины позволяющие расширить функциональные возможности Opera. - Просмотр страниц в виде вкладок позволяет более быструю и более удобную навигацию. - Блокировка всплывающих окон. Возможность выбора сайтов на которых будет проводиться блокировка. - Встроен менеджер логинов и паролей. - Возможность сохранения сессий. Во время следующего запуска браузера вы можете начать работу со страниц, открытых во время последнего сеанса работы с браузером Opera. - Доступ к наиболее часто используемым функциям с помощью определенных движений мышкой. - Высокий уровень защиты информации. Браузер Opera поддерживает 256-битовое шифрование, мощнейшее шифрование для Интернета. Личные данные легко стереть в любое время. - Встроен почтовый клиент для работы с электронной почтой и лентами новостей. Адресная книга.</p>
+
+<ul>
+<li>IRC-чат. Общайтесь и делитесь файлами с друзьями и близкими.</li>
+
+<li>Гибкая настройка внешнего вида браузера Opera. Поддержка скинов. Многоязычный интерфейс.</li>
+</ul>
+
+<p>Загрузить Opera 12.11 Build 1655 Dev: • <a href='http://snapshot.opera.com/12.11-1655_windows.html'>Windows x86/x64</a> • <a href='http://snapshot.opera.com/12.11-1655_mac.html'>Mac (Universal Binary with 32/64-bit)</a> • <a href='http://snapshot.opera.com/12.11-1655_linux-freebsd.html'>Linux / FreeBSD</a></p>
+
+<p>Загрузить Opera 12.10 Build 1652 Final: • <a href='http://get-tsw-1.opera.com/pub/opera/win/1210/int/Opera_1210_int_Setup.exe'>Windows x86</a> • <a href='http://get-tsw-1.opera.com/pub/opera/win/1210/int/Opera_1210_int_Setup_x64.exe'>Windows x64</a> • <a href='http://get-tsw-1.opera.com/pub/opera/mac/1210/Opera_12.10_Setup_Intel.dmg'>Mac (Universal Binary with 32/64-bit)</a> • <a href='http://get-tsw-1.opera.com/pub/opera/linux/1210/opera-12.10-1652.x86_64.linux.tar.bz2'>Linux / FreeBSD</a></p>
+
+<p>Загрузить Opera &#8220;Marlin&#8221; 12.50 Build 1583 Dev: • <a href='http://snapshot.opera.com/windows/32633_12.50-1583/Opera-Next-12.50-1583.i386.exe'>Windows x86</a> • <a href='http://snapshot.opera.com/windows/32633_12.50-1583/Opera-Next-12.50-1583.x64.exe'>Windows x64</a> • <a href='http://snapshot.opera.com/mac/32633_12.50-1583/Opera-Next-12.50-1583.dmg'>Mac (Universal Binary with 32/64-bit)</a> • <a href='http://snapshot.opera.com/unix/32633_12.50-1583/'>Linux / FreeBSD</a></p>
+
+<p>Подробности сборки в блоге <a href='http://my.opera.com/desktopteam/blog/'>opera.com</a>.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google Chrome 23.0.1271.64 Stable / Google Chrome 24.0.1312.5 Beta / Chromium 25.0.1317.0 Dev]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/09/google-chrome-stable/"/>
+    <updated>2012-11-09T02:30:17+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/09/google-chrome-stable</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2011/06/Chrome.png'><img alt='' src='/uploads/2011/06/Chrome.png' /></a></p>
+
+<p>08 ноября 2012 года - Google Chrome 24.0.1312.5 Beta для Windows, Mac, Linux. 06 ноября 2012 года - Google Chrome 23.0.1271.64 Stable для Linux, Mac, Windows.</p>
+
+<pre><code>&lt;code&gt;
+Сборка 23.0.1271.64 Stable содержит исправления:
+• [$3500] [157079] Medium CVE-2012-5127: Integer overflow leading to out-of-bounds read in WebP handling. Credit to Phil Turnbull.
+• [Linux 64-bit only] [$1500] [150729] Medium CVE-2012-5120: Out-of-bounds array access in v8. Credit to Atte Kettunen of OUSPG.
+• [$1000] [143761] High CVE-2012-5116: Use-after-free in SVG filter handling. Credit to miaubiz.
+• [Mac OS only] [$1000] [149717] High CVE-2012-5118: Integer bounds check issue in GPU command buffers. Credit to miaubiz.
+• [$1000] [154055] High CVE-2012-5121: Use-after-free in video layout. Credit to Atte Kettunen of OUSPG.
+• [145915] Low CVE-2012-5117: Inappropriate load of SVG subresource in img context. Credit to Felix Gröbert of the Google Security Team.
+• [149759] Medium CVE-2012-5119: Race condition in Pepper buffer handling. Credit to Fermin Serna of the Google Security Team.
+• [154465] Medium CVE-2012-5122: Bad cast in input handling. Credit to Google Chrome Security Team (Inferno).
+• [154590] [156826] Medium CVE-2012-5123: Out-of-bounds reads in Skia. Credit to Google Chrome Security Team (Inferno).
+• [155323] High CVE-2012-5124: Memory corruption in texture handling. Credit to Al Patrick of the Chromium development community.
+• [156051] Medium CVE-2012-5125: Use-after-free in extension tab handling. Credit to Alexander Potapenko of the Chromium development community.
+• [156366] Medium CVE-2012-5126: Use-after-free in plug-in placeholder handling. Credit to Google Chrome Security Team (Inferno).
+• [157124] High CVE-2012-5128: Bad write in v8. Credit to Google Chrome Security Team (Cris Neckar).
+&lt;/code&gt;</code></pre>
+
+<p>Подробнее <a href='http://googlechromereleases.blogspot.com/'>Announcements</a> and release notes for the Google Chrome browser.</p>
+
+<p><em>Краткая справка Google Chrome — это быстрый, легкий и настраиваемый браузер от компании Google. Как и прочие продукты этого интернет-гиганта, Google Chrome очень простой и удобный. Программа имеет доступный интерфейс, высокую скорость работы и систему расширений для наращивания функциональности. Скорость обработки страниц, JavaScript-приложений и всякого мультимедиа-контента находится на очень достойном уровне. По результатам многих тестов, Хром показывает самые высокие результаты при обработке JavaScript-приложений.</em></p>
+
+<p>Загрузить <a href='http://dl.google.com/chrome/win/23.0.1271.64_chrome_installer.exe'>Google Chrome Stable для Windows</a> (25.1 Мб, Freeware) Загрузить <a href='http://downloads.sourceforge.net/portableapps/GoogleChromePortable_23.0.1271.64_online.paf.exe'>Google Chrome Stable Portable</a> (1.3 Мб, Freeware) Загрузить <a href='http://dl.google.com/chrome/mac/stable/GoogleChrome.dmg'>Google Chrome Stable для Mac OS X</a> (39 Мб, <a href='https://www.google.com/chrome/eula.html?platform=mac&amp;hl=ru'>Freeware</a>) Загрузить <a href='http://www.google.com/chrome/eula.html?platform=linux&amp;hl=ru'>Google Chrome Stable для GNU/Linux</a> (23 Мб, Freeware) Загрузить <a href='http://dl.google.com/chrome/win/23.0.1271.60_chrome_installer.exe'>Google Chrome 23.0.1271.60 Beta для Windows</a> Загрузить <a href='http://dl.google.com/chrome/win/24.0.1312.5_chrome_installer.exe'>Google Chrome 24.0.1312.5 Beta for Windows</a> Загрузить <a href='http://commondatastorage.googleapis.com/chromium-browser-continuous/Win/165862/mini_installer.exe'>Chromium 25.0.1317.0 Dev</a></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Yandex Browser 1.1.1084.5408 Final]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/08/yandex-browser/"/>
+    <updated>2012-11-08T20:00:20+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/08/yandex-browser</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2012/10/yandexbrowser.png'><img alt='' src='/uploads/2012/10/yandexbrowser-300x300.png' /></a></p>
+
+<p>Сегодня опубликована новая версия Yandex Browser - 1.1.1084.5408. В версии Яндекс.Браузер 1.1 исправлены ошибки, добавлена поддержка технологии &#8220;Opera Turbo&#8221;, которая дает возможность быстрее загружать страницы при низкой скорости интернет-соединения, &#8220;сжимая&#8221; трафик. Режим Турбо может по умолчанию работает в автоматическом режиме, при низкой скорости браузер активирует опцию сжатия трафика, ускорив тем самым загрузку страниц. Вы можете выбрать режим работы вручную.</p>
+
+<p>Компания Яндекс выпустила собственный браузер. Новый продукт получил название Яндекс.Браузер. Логотип программы создан в самом Яндексе и должен символизировать земной шар с буквой «Y». Yandex Browser - простой и быстрый браузер с лаконичным дизайном и серьезным подходом к безопасности. Проверка скачиваемых файлов на вирусы от Лаборатории Касперского. Легкий (автоматический) перенос настроек из другого браузера. Яндекс.Браузер это простая и удобная программа для работы в интернете. Быстрая загрузка, только самые нужные кнопки и много места для просмотра страниц.</p>
+
+<p>Перед программистами стояла сложная задача, необходимо было сделать так, чтобы Яндекс.Браузер не стал одним из многочисленных клонов Google Chrome (как его предшественник Яндекс.Интернет), однако разработчики проделали немало, чтобы новый браузер имел свое, индивидуальное &#8220;лицо&#8221;. Интерфейс стал предельно минималистичным, хотя по сравнению с современными браузерами, казалось бы, сделать это было невозможно. На экране нет ничего лишнего и минимум элементов управления. Разумеется, в браузер был интегрирован поиск Яндекса, который становится всё более совершенным, уже в поисковых подсказках предлагая готовые ответы на запросы, но в настройках вы можете выбрать свой вариант поисковой машины.</p>
+
+<p><a href='/uploads/2012/10/Webkit-Yandex.Browser.png'><img alt='' src='/uploads/2012/10/Webkit-Yandex.Browser-300x187.png' /></a></p>
+
+<p>В браузер интегрирован машинный перевод Яндекса, доработаны службы геолокации для лучшего взаимодействия с Яндекс.Картами и поисковыми подсказками. В будущем можно ожидать интеграции с прочими облачными сервисами Яндекса. Изначально присутствует поддержка Adobe Flash. Встроена возможность просмотра PDF-файлов, причем выбраны технологии компании Foxit, известной своим качественным продуктом Foxit Reader. Все посещаемые ссылки проверяются на наличие угроз собственной репутационной службой Яндекса Safe Browsing, а безопасность загружаемых файлов контролируется при помощи технологий Лаборатории Касперского. Весьма любопытна возможность интеграции технологии Opera Turbo, сжимающей данные для ускорения загрузки на медленных соединениях. Режим Turbo пока отсутствует, но обещан в следующей версии Яндекс.Браузера.</p>
+
+<p><a href='/uploads/2012/10/Screen-Shot-2012-10-01-at-10.37.43-PM.png'><img alt='' src='/uploads/2012/10/Screen-Shot-2012-10-01-at-10.37.43-PM-300x263.png' /></a></p>
+
+<p>Вместо привычного по современным браузерам стартового экрана со списком избранных или часто посещаемых сайтов реализовано собственное «Табло». Для его вызова не нужно открывать новое окно, список сайтов показывается после простого клика по адресной строке. Вместо мелких скриншотов с плохо различимыми элементами используются виджеты с красивыми логотипами. Для полутора сотен наиболее популярных сайтов картинки были нарисованы вручную, для других эскизы будут формироваться автоматически на основе иконки сайта и его основного цвета. На Табло можно будет видеть уведомления социальных сетей и сообщения почтовых ящиков.</p>
+
+<p><a href='/uploads/2012/10/Lite-Yandex.Browser.png'><img alt='' src='/uploads/2012/10/Lite-Yandex.Browser-300x123.png' /></a></p>
+
+<p>Расширения Chrome должны подходить к браузеру Яндекса. Как будет осуществляться синхронизация пока не совсем ясно. Как утверждают разработчики, в отличие от Chrome cбор анонимной статистики ведется только с явного разрешения пользователя. Еще одно неочевидное преимущество нового браузера — отсутствие Яндекс.Бара и модуля Яндекс.Защитник.</p>
+
+<p><a href='/uploads/2012/10/Screen-Shot-2012-10-02-at-12.00.44-AM.png'><img alt='' src='/uploads/2012/10/Screen-Shot-2012-10-02-at-12.00.44-AM-300x87.png' /></a></p>
+
+<p>О браузере Yandex • Простой и быстрый Запуск Yandex занимает всего несколько мгновений. Интерфейс браузера содержит только самые нужные кнопки и много места для просмотра страниц. Для ускоренной загрузки страниц используется открытая технология визуализации WebKit.</p>
+
+<p>• Любимые сайты рядом При открытии новой вкладки отображается табло — страница, содержащая мини-эскизы (виджеты) страниц, которые вы посещаете наиболее часто. Переходите на нужную страницу, просто нажав на ее виджет. Будьте в курсе событий: виджеты могут показывать самую актуальную информацию (погоду, пробки, уведомления социальных сетей).</p>
+
+<p><a href='/uploads/2012/10/Yandex-Tablou.png'><img alt='' src='/uploads/2012/10/Yandex-Tablou-300x183.png' /></a></p>
+
+<p>• Умная строка Вводите адреса сайтов и поисковые запросы в адресную строку — Yandex самостоятельно определит, что вы ищете, и покажет необходимый результат. А подсказки помогут быстрее и точнее задать вопрос.</p>
+
+<p>• Надежная защита от вирусов При разработке мы уделили особое внимание безопасности вашего компьютера и данных. В браузере используется технология Яндекса SafeBrowsing, которая обеспечивает защиту вашего компьютера от зараженных страниц. Если на загружаемой странице был обнаружен вредоносный программный код, браузер предупредит вас об этом. Предупреждение можно проигнорировать и посетить сайт с опасным содержимым, но мы настоятельно не рекомендуем этого делать. Yandex проверяет все загружаемые вами файлы на наличие вредоносного кода (вирусов). При проверке используются данные нашего партнера — Лаборатории Касперского.</p>
+
+<p><a href='/uploads/2012/10/Safety-for-browsing.png'><img alt='' src='/uploads/2012/10/Safety-for-browsing-300x163.png' /></a></p>
+
+<p>• Перевод сайтов на ваш язык Yandex умеет переводить страницы иностранных сайтов на ваш родной язык. Он понимает 9 языков, в том числе английский, немецкий, французский и украинский. Если вы встретили незнакомое иностранное слово, просто наведите на него курсор и нажмите клавишу Shift. Браузер подскажет вам перевод.</p>
+
+<p><a href='/uploads/2012/10/Translate-from-Yandex.png'><img alt='' src='/uploads/2012/10/Translate-from-Yandex-300x164.png' /></a></p>
+
+<p>• Легкий перенос настроек Yandex может загрузить ваши закладки, историю просмотренных страниц и прочие настройки из другого браузера, установленного на вашем компьютере.</p>
+
+<p><a href='/uploads/2012/10/Import-settings.png'><img alt='' src='/uploads/2012/10/Import-settings-300x164.png' /></a></p>
+
+<p>Загрузить <a href='http://browser.yandex.ru/?from=cont_adw'>Yandex Browser 1.1.1084.5408 Final</a>: <a href='http://download.cdn.yandex.net/browser/ru/Yandex.dmg'>для Mac OS X (64-bit)</a> <a href='http://download.cdn.yandex.net/browser/ru/Yandex.exe'>для Windows x86 &amp; x64</a></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mozilla Firefox 10.0.10 ESR Final / Firefox 16.0.2 Final / Firefox 17.0 Beta 5 / Firefox 18.0 alpha 2 / Firefox 19.0 alpha 1]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/07/firefox-5/"/>
+    <updated>2012-11-07T23:00:50+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/07/firefox-5</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2011/05/firefoxLogo.png'><img alt='' src='/uploads/2011/05/firefoxLogo-300x114.png' /></a></p>
+
+<p>07 ноября 2012 года - <a href='http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/17.0b5/win32/ru/'>Mozilla Firefox 17.0 Beta 5 x86</a> 26 октября 2012 года - <a href='ftp://ftp.mozilla.org/pub/firefox/releases/16.0.2/win32/ru/'>Mozilla Firefox 16.0.2 Final</a> 24 октября 2012 года - <a href='ftp://ftp.mozilla.org/pub/firefox/releases/10.0.10esr/win32/ru/'>Mozilla Firefox 10.0.10 ESR Final</a> 09 октября 2012 года - Mozilla Firefox 18.0 alpha 2 <a href='http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-aurora-l10n/firefox-18.0a2.ru.win32.installer.exe'>x86</a> &amp; <a href='http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/firefox-18.0a1.en-US.win64-x86_64.installer.exe'>x64</a> 09 октября 2012 года - <a href='http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/firefox-19.0a1.ru.win32.installer.exe'>Mozilla Firefox 19.0 alpha 1 x86</a></p>
+
+<pre><code>&lt;code&gt;
+&lt;a href=&quot;https://www.mozilla.org/en-US/firefox/16.0.2/releasenotes/&quot; target=&quot;_blank&quot;&gt;Список ключевых изменений Firefox 16.0.2&lt;/a&gt;:
+• Лучшая отзывчивость интерфейса и меньшие задержки браузера в целом — благодаря повышенной скорости реакции JavaScript в результате намного более частой поэтапной оптимизации содержимого памяти (инкрементальной сборке мусора).
+• Начальная поддержка веб-приложений.
+• Встроенная поддержка открытого аудио-кодека Opus.
+• Отображение объема потребляемой каждой вкладкой памяти в отчете about:memory.
+
+Новые возможности для разработчиков:
+• новая панель разработки с быстрым доступом к инструментам, инспектору, отладчику, веб-консоли, с новой командной строкой;
+• поддержка беспрефиксных правил CSS3 (Animations, Transitions, Transforms, Gradients), IndexedDB;
+• поддержка новых элементов HTML5;
+• список последних открытых файлов в редакторе Scratchpad.
+• Поддержка обратного воспроизведения анимации.
+• Упраздненная поддержка хеш-алгоритма MD5 при проверке цифровых подписей.
+• Сокращенная строка идентификации User Agent тестовых сборок — только основной номер версии (две первые цифры вместо трех ранее).
+• Исправленная работа точек остановки отладчика при обновлении страницы.
+• Предварительная поддержка голосового управления VoiceOver в Mac OS X.
+• Мелкие доработки интерфейса.
+• Встроенная поддержка PDF средствами HTML5 вновь остается предварительной и будет реализована в следующих версиях браузера.
+&lt;/code&gt;</code></pre>
+
+<p><em>Краткая справка Mozilla Firefox — это браузер нового поколения от Mozilla Foundation. Простой и лаконичный интерфейс позволяет освоить программу за несколько минут. Безопасность, высокая скорость работы, гибкость и расширяемость — основные качества, присущие Mozilla Firefox. Важнейшая причина, заставившая Mozilla Firefox взлететь так высоко – это простота его освоения, в Firefox есть пять заветных кнопок на панели инструментов, за пределами которых лежит непознанная бесконечность – поэтому пользователю не нужно метаться в муравейнике значков, пунктов меню и панели настроек.</em></p>
+
+<p><em>Проект Mozilla представил ветку Firefox с длительным сроком поддержки. Разработчики проекта Mozilla анонсировали присвоение статуса релиза с длительным сроком поддержки (ESR) версии Firefox 10. В отличие от обычных выпусков Firefox, поддержка которых прекращается сразу после выхода новой версии, обновления с исправлением проблем безопасности для Firefox 10 будут выпускаться в течение года. Следующим релизом с длительным сроком поддержки станет Firefox 17. Поддержка ветки Firefox 3.6 прекращена 24 апреля. Обновления ESR-версий будут выпускаться каждые 6 недель и будут включать только исправления опасных уязвимостей, а в отдельных случаях и решения серьёзных проблем со стабильностью. Актуальная на данный момент версия Mozilla Firefox 10.0.10 ESR.</em></p>
+
+<p><a href='/uploads/2012/03/Firefox-10.0.3-ESR.png'><img alt='' src='/uploads/2012/03/Firefox-10.0.3-ESR-300x137.png' /></a></p>
+
+<p>Обновлено 07 ноября 2012 года - <a href='http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/17.0b5/win32/ru/'>Mozilla Firefox 17.0 Beta 5 x86 русская версия</a> 26 октября 2012 года - <a href='ftp://ftp.mozilla.org/pub/firefox/releases/16.0.2/win32/ru/'>Mozilla Firefox 16.0.2 Final</a> 24 октября 2012 года - <a href='ftp://ftp.mozilla.org/pub/firefox/releases/10.0.10esr/win32/ru/Firefox%20Setup%2010.0.10esr.exe'>Mozilla Firefox 10.0.10 ESR Final</a> 09 октября 2012 года - Mozilla Firefox 18.0 alpha 2 <a href='http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-aurora-l10n/firefox-18.0a2.ru.win32.installer.exe'>x86</a> &amp; <a href='http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/firefox-18.0a1.en-US.win64-x86_64.installer.exe'>x64</a> 09 октября 2012 года - <a href='http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/firefox-19.0a1.ru.win32.installer.exe'>Mozilla Firefox 19.0 alpha 1 x86</a></p>
+
+<p><a href='/uploads/2012/11/Screen-Shot-2012-11-09-at-6.42.29-PM.png'><img alt='' src='/uploads/2012/11/Screen-Shot-2012-11-09-at-6.42.29-PM-300x141.png' /></a></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Apple Safari 6.0.2]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/02/apple-safari-6-0-2/"/>
+    <updated>2012-11-02T13:25:23+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/02/apple-safari-6-0-2</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2012/11/Safari_logo.png'><img alt='' src='/uploads/2012/11/Safari_logo.png' /></a></p>
+
+<p>01 ноября 2012 - список обновлений пополнился браузером <a href='http://support.apple.com/kb/HT5568'>Apple Safari 6.0.2</a>. Apple рекомендует обязательное обновление, так как новая версия содержит исправления повышающие безопасность и стабильность браузера. Для тех у кого ошибка в App Store при обновлении Safari 6.0.2 - direct <a href='http://swcdn.apple.com/content/downloads/53/02/041-8081/2jwp4wjrwygtm4lc608qy4h0n4a9yyq37g/Safari6.0.2Mountain.pkg'>link</a>.</p>]]></content>
+  </entry>
+  
+</feed>

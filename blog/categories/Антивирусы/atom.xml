@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Антивирусы | dimadr's blog]]></title>
+  <link href="http://dimadr.github.com/blog/categories/Антивирусы/atom.xml" rel="self"/>
+  <link href="http://dimadr.github.com/"/>
+  <updated>2012-11-11T20:26:37+04:00</updated>
+  <id>http://dimadr.github.com/</id>
+  <author>
+    <name><![CDATA[Dmitry Dremin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Comodo Internet Security Premium 2012 5.12.256249.2599 Final / Comodo Internet Security Premium 6.0.252829.2560 Beta]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/09/cis-premium/"/>
+    <updated>2012-11-09T02:00:54+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/09/cis-premium</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2011/01/comodo.png'><img alt='' src='/uploads/2011/01/comodo.png' /></a></p>
+
+<p>08 ноября 2012 года - обновление продукта до версии COMODO Internet Security Premium 5.12.256249.2599. 09 октября 2012 года - COMODO Internet Security 6.0.252829.2560 Beta. Comodo Internet Security Premium – пакет для комплексной защиты компьютера от вирусов, троянов, других вредоносных программ и хакерских атак. Это легкая в использовании программа которая ни каким образом не увеличит нагрузку на ваш компьютер. Сбалансированные модули дают максимальную гарантию защиты от вирусов. Имеется огромное количество возможностей для спокойного серфинга в сети Интернет, для борьбы с вирусами, троянами, adware-модулями и др.</p>
+
+<pre><code>&lt;code&gt;
+&lt;a href=&quot;https://forums.comodo.com/beta-corner-cis/comodo-internet-security-602528292560-beta-released-t87274.0.html&quot; target=&quot;_blank&quot;&gt;COMODO Internet Security 6.0 Beta&lt;/a&gt;:
+• Новое. Полностью переработанный адаптированный для сенсорных экранов и быстрого выполнения основных задач пользовательский интерфейс
+Новый пользовательский интерфейс разработан с нуля, чтобы сделать CIS 6 удобным насколько это возможно. В то время как решение предлагает много расширенных настроек для продвинутых пользователей, начинающие пользователи найдут его очень простым в использовании.
+• Новое. COMODO Cleaning Essentials и Killswitch интегрированы в CIS
+• Улучшено. Значительные улучшения песочницы и виртуализации
+Виртуализация значительно улучшилось, так что больше приложений теперь имеют возможность работать внутри песочницы.
+Новая песочница позволила реализовать отдельный рабочий стол с собственной экосистемой приложений: Виртуальный киоск. 
+в Comodo Internet Security 6 также введена автоматическая виртуализация неизвестных приложений для продвинутых пользователей.
+• Улучшено. Быстрое и легкое решение безопасности
+CIS6 является самым быстрым и наименее ресурсоемким продуктом, из выпущенных до этого. В режиме реального времени отклика ПК значительно улучшился. Ручное сканирование в настоящее время стало менее ресурсоемким. Существенно уменьшилось время повторных проверок компьютера. 
+• Есть еще буквально около сотни других улучшений по сравнению со старыми версиями. Здесь перечислены лишь несколько основных функций улучшений. Есть много других важных функций/улучшений, которые вы заметите при использовании Comodo Internet Security 6: от интеграции антивирусного диска восстановления Comodo Rescue Disk до системы рейтинг, виртуальных ярлыков на общие пространства.
+&lt;/code&gt;</code></pre>
+
+<p>Загрузить (Download) <a href='http://download.comodo.com/cis/download/installs/6.0_beta_hd892k/cispremium_installer.exe'>Comodo Internet Security Premium 6.0.252829.2560 Beta</a></p>
+<hr />
+<p><strong><a href='http://downloads.comodo.com/cis/download/updates/release/inis_1800/release_notes.html'>Изменения в версии</a> 5.12.256249.2599 Release:</strong></p>
+
+<pre><code>&lt;code&gt;
+• Улучшена поддержка Windows 8.
+• Исправлена ошибка при которой драйвер PPPoE протокола конфликтовал с драйвером firewall в Windows 8.&lt;/code&gt;</code></pre>
+
+<p>Программа защиты от интернет-угроз Comodo Internet Security состоит из антивируса Comodo Antivirus, персонального фаервола Comodo Firewall и модуля защиты Comodo Defense+. Среди прочих возможностей, пакет CIS обеспечивает защиту от вирусов, назойливых рекламных модулей, шпионских программ, фишинга, троянцев, ботов, а также поддерживает постоянную защиту от разного рода попыток несанкционированного доступа к ресурсам пользовательского компьютера в реальном времени.</p>
+
+<p>В процессе установки вам будет предложено на выбор: * Установить антивирус как самостоятельный продукт. * Установить фаервол как самостоятельный продукт. * Установить GeekBuddy (я отказался).</p>
+
+<p><a href='/uploads/2011/10/CIS-5.8-Final.png'><img alt='' src='/uploads/2011/10/CIS-5.8-Final-300x220.png' /></a></p>
+
+<p><em>Антивирус Comodo:</em> · Обнаруживает, блокирует и уничтожает вирусы, обнаруженные на персональных компьютерах и в сетях · Обеспечивает непрерывную защиту с помощью сканирования в реальном времени по доступу в систему · Автоматически и ежедневно обновляет базы данных вирусов · Оснащен встроенной проактивной защитой от вирусов/троянских программ · Продукт бесплатный</p>
+
+<p><em>Фаервол Comodo:</em> · Неоднократно признавался победителем независимых конкурсов ПО данного класса · Автоматически делает компьютер невидимым для хакерских атак · Анализирует и фильтрует входящий и исходящий трафик вашего компьютера · Оснащен встроенной проактивной защитой от вирусов/троянских программ · Продукт бесплатный</p>
+
+<p><em>Панель инструментов Comodo HopSurf:</em> · Связывает ваш веб-браузер с онлайн-Антивирусом Comodo для быстрой антивирусной диагностики &#8220;на лету&#8221; · Дает возможность зарегистрировать свою страницу в нашей социальной сети для поиска новых знакомств по интересам · Позволяет размещать на сайтах тэги, давать им рейтинговую оценку, рассылать друзьям ссылки на интересные сайты · Дает возможность настраивать SurfTimer на автоматический выход на интересующие вас сайты · Продукт бесплатный</p>
+
+<p><em>Comodo TrustConnect:</em> · Обеспечивает защиту беспроводной и проводной связи между вашим и другими компьютерами · Делает интернет-серфинг безопасным в точках общественного доступа в интернет, таких как кафе, гостиницы, аэропорты т.д. · Защищает частную информацию от попадания в руки к компьютерным преступникам во время онлайн сессий · Обеспечивает полное шифрование исходящего и входящего трафика</p>
+
+<p><a href='/uploads/2011/10/CIS-5.8-Final-Antivirus.png'><img alt='' src='/uploads/2011/10/CIS-5.8-Final-Antivirus-300x219.png' /></a></p>
+
+<p>Брандмауэр Comodo Firewall Pro, включенный в состав пакета Comodo Internet Security Premium, заслужил широкое признание по всему миру и признан лучшим бесплатным брандмауэром в таких авторитетных изданиях, как Washington Post, PC Magazine и Lifehacker. В одной связке с брандмауэром работает не менее известный бесплатный антивирусный комплекс Comodo, заслуживший высокие оценки таких изданий, как Computer Shopper и Computer America. Большинство коммерческих продуктов с таким же уровнем функциональности обошлись бы пользователю в сумму порядка 1600 - 2500 рублей.</p>
+
+<p><a href='/uploads/2011/10/CIS-5.8-Final-Defense+.png'><img alt='' src='/uploads/2011/10/CIS-5.8-Final-Defense+-300x220.png' /></a></p>
+
+<p><strong>Основные характеристики Comodo Internet Security Premium:</strong> - Блокирует установку вирусов, червей, шпионских программ, кейлоггеров и другого вредоносного программного обеспечения. - Блокирует сканирование портов, попытки проникновения, хаккеров. - Блокирует модификацию критических файлов системы. - Встроенный планировщик заданий позволяет проводить сканирование по расписанию. - Изолирует подозрительные файлы в карантин. - Ежедневное автоматическое обновление вирусной базы данных. - Бесплатное использование Никаких сборов или пожертвований.</p>
+
+<p><a href='/uploads/2012/03/CIS-5.10.png'><img alt='' src='/uploads/2012/03/CIS-5.10-300x220.png' /></a></p>
+
+<p>Загрузить (Download) <a href='http://antivirus.comodo.com/windows-8/'>COMODO Internet Security Premium 5.12.256249.2599 Final</a></p>
+
+<p><em>Offtop</em> <em>Фаервол Comodo (бесплатный продукт):</em> · Неоднократно признавался победителем независимых конкурсов ПО данного класса · Автоматически делает компьютер невидимым для хакерских атак · Анализирует и фильтрует входящий и исходящий трафик вашего компьютера p.s. Если вы используете сторонний антивирус, то данный Firewall может служить отличным дополнением к вашей защите.</p>
+
+<p>Загрузить (Download) <a href='http://eu2.download.comodo.com/cis/download/installs/standalone/cfw_installer_x86.exe'>Comodo Firewall 5.12.256249.2599 x86 Final</a>; <a href='http://eu2.download.comodo.com/cis/download/installs/standalone/cfw_installer_x64.exe'>x64</a></p>
+
+<p>Домашняя страница: <a href='http://www.comodo.com/'>comodo.com</a></p>
+
+<p><em>© Comodo Group, Inc. 2012</em></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Zemana AntiLogger 1.9.3.224 Multilingual]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/03/zemana-antilogger/"/>
+    <updated>2012-11-03T22:00:35+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/03/zemana-antilogger</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2012/05/Zemana_AntiLogger_Box.png'><img alt='' src='/uploads/2012/05/Zemana_AntiLogger_Box-261x300.png' /></a></p>
+
+<p>03 ноября 2012 года - Zemana AntiLogger 1.9.3.224 Multilingual.</p>
+
+<p>Загрузить Zemana AntiLogger: <a href='http://dyn.zemana.com/Products/AntiLogger/Zemana_AntiLogger_1.9.3.224.exe'>Zemana AntiLogger версия 1.9.3.224</a></p>
+
+<p><em>Краткая справка</em> Zemana AntiLogger обеспечивает очень действенную anti-malware защиту, работая совместно со всеми основными продуктами безопасности. AntiLogger существенно улучшает вашу безопасность, обеспечивая защиту против самых последних программ шпионов, Rootkits,Trojans, Viruses, Bots, Adware и сборщики паролей — известные как Malware. Устанавливается за секунды, быстро работает и не мешает вам в дальнейшем. Вы можете посещать любые сайты, зная что теперь ваш компьютер и информация на нем находятся под надежной защитой.</p>
+
+<p><a href='/uploads/2011/10/Main.png'><img alt='' src='/uploads/2011/10/Main-300x243.png' /></a></p>
+
+<p><strong>Функции безопасности</strong> <em>SSL Защита:</em> Шифрование SSL (Secure Socket Layer, уровень защищённых сокетов) обеспечивает безопасность данных во время покупок онлайн и проведения транзакций на большие суммы. К сожалению, новое поколение шпионского ПО успевает захватить данные прежде, чем будут надёжно зашифрованы. Уникальная проактивная защита Zemana AntiLogger предотвращает кражу вашей личной информации во время проведения банковских транзакций, операций, связанных с электронной коммерцией, благодаря использованию SSL-шифрования.</p>
+
+<p><a href='/uploads/2011/10/setting.png'><img alt='' src='/uploads/2011/10/setting-300x291.png' /></a></p>
+
+<p>Защита от шпионов-перехватчиков изображений через веб-камеру: Большой Брат следит за тобой? Хакеры и шпионские программы могут захватить контроль над веб-камерой, даже когда она выключена! Но Zemana AntiLogger препятствует и этому!</p>
+
+<p><a href='/uploads/2011/10/Zemana-Setting.png'><img alt='' src='/uploads/2011/10/Zemana-Setting-300x242.png' /></a></p>
+
+<p>Защита от клавиатурных шпионов (кейлоггеров): Клавиатурные шпионы записывают все, что вы печатаете, следя за символами, введенными с клавиатуры. Это делает большинство средств защиты бесполезными. Однако, Zemana AntiLogger к ним не относится!</p>
+
+<p>Защита от шпионов-перехватчиков данных с экрана (скринлоггеров): Подобно тому, как вы можете сделать &#8220;снимок&#8221; экрана, скринлоггеры делают снимки экрана в наиболее уязвимые моменты, например, когда вы просматриваете секретную информацию, такую как сведения о банковском счете, используя виртуальную клавиатуру. Zemana Anti-Screen Logger распознает эту подозрительную деятельность, анализируя поведение вредоносных программ, в то время как стандартное защитное ПО полностью полагается на распознавание сигнатур вирусов.</p>
+
+<p>Защита от шпионов-перехватчиков данных из буфера обмена: Копируя, вырезая, вставляя объекты, вы посылаете потенциально уязвимые данные в буфер обмена Windows, где вредоносные программы могут до них добраться. К счастью, Zemana AntiLogger справляется со всеми попытками вредоносного мониторинга, в том числе с захватом памяти.</p>
+
+<p>Защита системы: Вредоносные программы часто добираются до вашего реестра, вашей оперативной памяти (ОЗУ) и других чувствительных областей, чтобы внести вредоносный код и захватить контроль над вашим компьютером. Zemana AntiLogger охраняет от всего этого, заботясь о безопасности самого сердца вашей машины.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TrustPort Total Security 2013 13.0.6.5088 / Internet Security / Antivirus / Antivirus USB Edition]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/02/trustport-av/"/>
+    <updated>2012-11-02T00:45:21+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/02/trustport-av</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2012/02/Trustport.png'><img alt='' src='/uploads/2012/02/Trustport-300x300.png' /></a></p>
+
+<p>01 ноября 2012 года - новая версия продуктов TrustPort 2013 13.0.6.5088.</p>
+
+<p>Основной перечень продуктов для защиты домашних компьютеров: • TrustPort Antivirus 2013 <a href='http://www.trustport.com/download/file/TrustPort_Antivirus.exe'>13.0.6.5088</a> (<a href='http://www.trustport-ru.ru/en/products/trustport-antivirus.html'>описание продукта</a>) • TrustPort Internet Security 2013 <a href='http://www.trustport.com/download/file/TrustPort_Internet_Security.exe'>13.0.6.5088</a> (<a href='http://www.trustport-ru.ru/en/products/trustport-internet-security.html'>описание продукта</a>) • TrustPort Total Protection 2013 <a href='http://www.trustport.com/download/file/TrustPort_Total_Protection.exe'>13.0.6.5088</a> (<a href='http://www.trustport-ru.ru/en/products/trustport-total-protection.html'>описание продукта</a>) • TrustPort USB Antivirus 2012 <a href='http://www.trustport.com/download/file/TrustPort_USB_Antivirus.exe'>13.0.6.5088</a> (<a href='http://www.trustport-ru.ru/en/products/trustport-usb-antivirus.html'>описание продукта</a>)</p>
+
+<pre><code>&lt;code&gt;&lt;small&gt;
+Изменения в релизах TrustPort Antivirus, Internet Security и Total Protection 2013
+Список изменений:
+13.0.6.5087 (01.11.2012)
+
+13.0.5.5087 (29.10.2012)
+• USB scanning files in use optimized.
+• Microsoft Management Console Application Inspector compatibility fix.
+• Configuration files backup and use it when current file is broken.
+• TrustPort engine incremental update optimized.
+• Closing of TPCfg on Windows 8 fixed.
+• Disk Protection crash fix.
+• Possible scanner server shared memory lock fix.
+• Office 2013 Application Inspector compatibity fix.
+• Firewall compatibility with Windows 8 &quot;Metro&quot; applications.
+
+13.0.4.5077 (10.09.2012)
+• TrustPort engine logging and USB scanning improved
+• USB version license key check fixed
+• updater GUI enhanced
+• show unprotected status only after two unsuccessful update attempts in a row
+• email client plugins attachment scanning fixed
+• delete quarantined file when corrupted
+
+13.0.3.5073 (22.08.2012)
+• apply package update fixed
+• copy TrustPortAntivirus.exe to exported USB version
+• application inspector shell extension add/remove fixed
+• always check again for product update from TPEasy
+• application inspector compatibility fix
+• Thunderbird excluded from on-access scanner
+• Thunderbird checking of several new emails fixed
+• Thunderbird 15 plug-in
+• use 7zip decompression library for update packages
+• noslow parameter to ignore slow machine configuration
+• logs in updater fixed
+• fixed skipping infected files in archive when shouldn&#39;t be scanned in BitDefender engine
+
+13.0.2.5069 (30.07.2012)
+*disable Application Inspector when license has been expired
++ Thunderbird 14 plugin
++ progress during applying update
+* initialize antivirus configuration manager even without Application Inspector
+* antivirus shell extension fixed to work without Application Inspector
+* WinPE fixed
+* shell extensions for Data Shredder and Archive Encryption on USB version fixed
+* shutdown all processes correctly when USB not properly removed from system
++ set rights to SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows registry key to allow Application Inspector registration and other applications read from this key
+* disable checking of service applications by Application Inspector when running under custom account
+* AVG engine certification library fix
+* try to keep same count of enabled engines during license key change
+* preset modes fixed on Windows 2000
++ simultaneous update
+* Trustport engine enhanced on USB version
+* memory leaks fixed
+
+13.0.1.5061 (04.07.2012)
+• Исправлена ошибка сброса последних выбранных настроек.
+• move Application Inspector rule to different restriction
+• Добавлено удаление кнопкой &quot;Del&quot; правила в модуле &quot;Инспектор приложений&quot;.
+• Добавлено в опцию &quot;быстрое сканирование&quot; проверка директории &quot;SysWOW64&quot; на 64-битных ОС.
+• Исправлена ошибка перевода всплывающего окна в системном трее для венгерской локализации.
+
+13.0.0.5060 (25.06.2012) - Новая линейка продуктов TrustPort 2013
+&lt;/small&gt;&lt;/code&gt;</code></pre>
+
+<p><a href='/uploads/2012/06/Main_TrustPort_2013.png'><img alt='' src='/uploads/2012/06/Main_TrustPort_2013-300x154.png' /></a></p>
+
+<p><em>Краткая справка флагмана линейки:</em> TrustPort Total Protection создан защитить Ваш компьютер от вредоносного ПО, онлайн-угроз и кражи конфиденциальной информации. Решение TrustPort Total Protection включает антивирус, антиспам, межсетевой экран и шифрование данных, и обеспечивает полноценную защиту Вашего ПК.</p>
+
+<p>TrustPort Total Protection защищает компьютер от вирусов и шпионского ПО с использованием двух топовых антивирусных движков AVG и BitDefender (есть вариант защиты с движками AVG и Vipre, вариант защиты с движками BitDefender+Avg+Vba+Dr.Web ввиду его корпоративной сферы деятельности описывать в этой статье не будем). Все электронные письма и веб-сайты проверяются с целью выявления опасного и нежелательного содержимого. Все конфиденциальные данные можно надежно защитить шифрованием или уничтожить неиспользуемые конфиденциальные файлы.</p>
+
+<p>Основные возможности TrustPort Total Protection: • Эффективный антивирус и антишпион • Интернет-защита и мониторинг веб-сайтов • Интеллектуальный фаервол • Защита данных шифрованием • Надежное уничтожение неиспользуемых данных • Защита электронной почты • Родительский контроль • Автоматический мониторинг носителей данных • Автоматические обновления</p>
+
+<p><a href='/uploads/2012/06/Setting_Trustport_2013.png'><img alt='' src='/uploads/2012/06/Setting_Trustport_2013-300x238.png' /></a></p>
+
+<p>Основные функции TrustPort Total Protection 2013: • Антивирус и фаервол Программа использует традиционное сканирование и эвристический анализ для обнаружения и блокирования всех вредоносных программ, которые могут попасть на компьютер из Интернета или со съемных носителей данных (USB-флешек, CD/DVD дисков). В результате использования двух топовых антивирусных движка AVG и BitDefender, возможности TrustPort по обнаружению вредоносного ПО являются одними из самыми лучшими в мире. • Веб-защита Веб-страницы - наиболее распространенные источники вирусных инфекций, поэтому программа сканирует все файлы, которые загружаются из Интернета. Есть возможность автоматически определять потоки данных, такие как аудио- и видео-потоки, которые не нужно сканировать. Типичные фишинговые сайты идентифицируются и блокируются. • Защита электронной почты Электронная почта проверяется на наличие вредоносных программ и спама. Предлагается полная интеграция в популярные почтовые клиенты Microsoft Outlook, Mozilla Thunderbird, Outlook Express и Windows Mail. Кроме того, можно сканировать все входящие сообщения с любого выбранного клиента. • Персональный фаервол Все контакты между компьютером и внешней средой контролируются. Большинство легитимных приложений распознаются и допускается связь с Интернетом. Неизвестные и подозрительные приложения блокируются, или, в некоторых случаях, предлагается вам разрешить или блокировать их. TrustPort Total Protection использует широкий диапазон настроек фаервола. • Шифрование и уничтожение данных Доступно два метода шифрования данных. Для безопасного резервного копирования важных данных целесообразно сохранить их в зашифрованном архиве, для ежедневного использования они могут находиться на зашифрованном диске. Есть возможность надежно уничтожать неиспользуемые конфиденциальные данные с помощью инструмента TrustPort DataShredder. • Родительский контроль Программа распознает 13 категорий нежелательных веб-сайтов, такие как, например, порнографические и игровые сайты, которые можно заблокировать. Индивидуальные пользователи могут делать собственные профили в отношении блокирования отдельных категорий. • Диск резервной копии системы В случае серьезного повреждения системы вирусом, TrustPort Total Protection позволяет создать диск резервной копии системы с антивирусным модулем. После загрузки операционной системы системы с диска резервной копии можно уничтожить вредоносное ПО, которое не удаляется с помощью других устройств. • Портативный антивирус Портативная версия антивируса для USB-флешки позволяет защищать данные при передачи их на переносные устройства, а также осуществлять антивирусню проверку на любом компьютере с поддержкой USB.</p>
+
+<p>Update Настройка продукта на максимальную защиту: <a href='/uploads/2012/02/Настройка-автоматического-сканирования.png'><img alt='' src='/uploads/2012/02/Настройка-автоматического-сканирования-300x194.png' /></a> <a href='/uploads/2012/02/Настройка-проверки-по-запросу.png'><img alt='' src='/uploads/2012/02/Настройка-проверки-по-запросу-300x213.png' /></a> <a href='/uploads/2012/02/Настройка-автоматического-сканирования-дополнительно.png'><img alt='' src='/uploads/2012/02/Настройка-автоматического-сканирования-дополнительно-300x185.png' /></a> <a href='/uploads/2012/02/Настройки-Firewall.png'><img alt='' src='/uploads/2012/02/Настройки-Firewall-300x193.png' /></a></p>
+
+<p>Веб-сайт компании TrustPort: <a href='http://www.trustport.com'>www.trustport.com</a> Русскоязычный сайт о продуктах TrustPort: <a href='http://www.trustport-ru.ru'>www.trustport-ru.ru</a></p>
+
+<p><em>Copyright © 2012 TrustPort, a.s. All Rights Reserved</em></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[avast! 7.0.1474 Final]]></title>
+    <link href="http://dimadr.github.com/blog/2012/11/01/avast-7/"/>
+    <updated>2012-11-01T01:00:16+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/11/01/avast-7</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2012/02/avast.png'><img alt='' src='/uploads/2012/02/avast.png' /></a></p>
+
+<p>31 октября 2012 - avast! 7.0.1474 Final.</p>
+
+<pre><code>&lt;code&gt;
+&lt;a href=&quot;http://forum.avast.com/index.php?topic=108170.0&quot; target=&quot;_blank&quot;&gt;Изменения в версии 7.0.1474:&lt;/a&gt;
+31.10.2012 (7.0.1474)
+• Устранена причина &quot;синих экранов в Windows 8 (остались еще ошибки, они на изучении).
+• Исправлены падения и зависания продукта в Windows XP 64b.
+• Исправлены ошибки в модуле &quot;WebRep&quot;.
+• Улучшена стабильность модуля &quot;Песочница&quot;.
+
+23.10.2012 (7.0.1473)
+• Закончена отладка элементоа METRO UI (уведомления, иконки и т.д.)
+• Плагин WebRep теперь работает корректно во всех основных браузерах.
+• Исправлены проблемы сети в Windows 8.
+• Исправлена разные падения/BSODs основанные на логах BETA версии продукта.
+&lt;/code&gt;</code></pre>
+<hr />
+<p><a href='http://forum.avast.com/index.php?topic=100247.0'>Новые возможности версии Avast 7.0:</a> • В Windows 7, теперь вы можете переключаться между горизонтальной и вертикальной ориентацией гаджета рабочего стола. • Avast! Аккаунт портала (https://my.avast.com) будет завершен в течение следующих нескольких дней, базовая функциональность уже есть. Наслаждайтесь. • Autosandbox malware анализ еще не полностью функционален (он будет включен (через VPS) в ближайшее время) • Новый установщик • Улучшения в интерфейсе • Сервис FileRep (на основе облака) • Потоковое обновления • Улучшения песочницы и автоматической песочницы (autosandbox) • Улучшение защиты браузера • Удаленная помощь для помощи вашим друзьям с проблемами на компьютере • Инструмент поддержки (собирает лог-файлы и т.д. вместе, что позволяет представить их avast! для устранения неполадок) • Экспорт / Импорт настроек • Улучшение заставки • Работает на Win8 Developer Preview • И многие другие улучшения безопасности • Исправлен удалённый доступ avast! • Внесены исправления в файлы помощи и локализаций • Исправлена регистрация продукта • Заработала страница настроек аккаунта</p>
+
+<p>Большим плюсом данного продукта считаю наличие в бесплатной версии avast! 7.0 Free Edition облачных технологий. Можно назвать еще пару вендоров с бесплатным &#8220;облаком&#8221;, но с таким функционалом пока нет на рынке продукта.</p>
+
+<p>Загрузить avast! 7.0.1474 Final: <a href='http://files.avast.com/iavs5x/avast_free_antivirus_setup.exe'>avast! 7.0.1474 Final Free Edition Multilingual</a> <a href='http://files.avast.com/iavs5x/avast_pro_antivirus_setup.exe'>avast! 7.0.1474 Final Professional Multilingual</a> <a href='http://files.avast.com/iavs5x/avast_internet_security_setup.exe'>avast! 7.0.1474 Final Internet Security Multilingual</a></p>
+
+<p><a href='/uploads/2012/02/avast7.png'><img alt='' src='/uploads/2012/02/avast7-300x179.png' /></a></p>
+
+<p><a href='/uploads/2012/02/install-1.png'><img alt='' src='/uploads/2012/02/install-1-300x204.png' /></a></p>
+
+<p><a href='/uploads/2012/02/install-2.png'><img alt='' src='/uploads/2012/02/install-2-300x204.png' /></a></p>
+
+<p><a href='/uploads/2012/02/main1.png'><img alt='' src='/uploads/2012/02/main1-300x216.png' /></a></p>
+
+<p><a href='/uploads/2012/02/Облако.png'><img alt='' src='/uploads/2012/02/Облако-300x227.png' /></a></p>
+
+<p><a href='/uploads/2012/02/Real-Time.png'><img alt='' src='/uploads/2012/02/Real-Time-300x228.png' /></a></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Avira 2013 Final [update]]]></title>
+    <link href="http://dimadr.github.com/blog/2012/10/30/avira-2013/"/>
+    <updated>2012-10-30T22:00:17+04:00</updated>
+    <id>http://dimadr.github.com/blog/2012/10/30/avira-2013</id>
+    <content type="html"><![CDATA[<p><a href='/uploads/2010/12/avira.png'><img alt='' src='/uploads/2010/12/avira.png' /></a></p>
+
+<p>30 октября 2012 года - обновлена линейка продуктов Avira - Avira Antivirus Premium 2013 13.0.0.2735, Avira Internet Security 2013 13.0.0.2735, Avira Free Antivirus 2013 13.0.0.2735, Avira Professional Security 2013 13.0.0.2735.</p>
+
+<pre><code>&lt;code&gt;
+Build 2795 (30.10.2012)
+
+Build 2693 (02.10.2012)
+
+Build 2688 (01.10.2012)
+• changed version number of avlode.dll
+• fixed issue with wrong scan profile in scheduler after update from AV12 to AV13
+• fixed several issues with avcenter crashing
+• fixed rare issue in avreg.dll initialization
+• fixed issue with avconfig crashing if dll is locked
+
+Build 2681 (28.09.2012)
+PC PROTECTION
+• Real-Time Protection: Monitors nonstop for viruses, worms, Trojans and more
+• AntiAd/Spyware: Shuts out online spies and annoying adware
+• NEW - Protection Cloud: Ultrafast scanning and immediate online identification of new malware
+• NEW - Network Drives: Malware scanning for shared folders
+• Rootkit Protection: Traps hidden malware that conventional antivirus doesn’t find
+• ProActive: Halts undiscovered threats by tracking their behavior
+• AHeAD Technology: Inspects unfamiliar code for suspicious signs
+
+INTERNET PROTECTION
+• NEW - Browser Tracking Blocker: Stops web trackers from recording your activities*
+• NEW - Website Safety Advisor: Rates the safety of all sites in your search results*
+• Advanced Web Protection: Intercepts malicious websites before they load
+• AntiDrive-by: Blocks unwanted software downloads while you surf
+• Mail Protection: Keeps infected emails at a safe distance from your inbox
+* This feature is part of the Avira SearchFree Toolbar (included).
+
+CHILD PROTECTION
+• NEW - Social Networks: Extends parental supervision to Facebook and other social media
+
+REPAIR
+• Quick Removal: Eliminates viruses in one click
+• Generic Repair: Removes all traces of a malware infection automatically
+• Rescue System: Jumpstarts your PC in an emergency
+
+EXTRAS
+• Live Support: Unlimited access to friendly, knowledgeable Avira security specialists
+• Game Mode: Suspends unnecessary notifications during games and movies
+• Netbook Support: Fast virus scans even on compact machines
+• Express Installation: Skips the boring Q&amp;A; to launch your protection fast
+&lt;/code&gt;</code></pre>
+
+<p>Финальные версии продуктов 10.10.2012 (English): • <a href='http://personal.avira-update.com/package/wks_avira13/win32/en/pecl/avira_free_antivirus_en.exe'>Avira Free Antivirus 2013 13.0.0.2735 (EN)</a> • <a href='http://premium.nl.avira-update.com/package/wks_avira13/win32/en/pepr/avira_antivirus_premium_en.exe'>Avira Antivirus Premium 2013 13.0.0.2735 (EN)</a> • <a href='http://premium.nl.avira-update.net/package/wks_avira13/win32/en/isec/avira_internet_security_en.exe'>Avira Internet Security 2013 13.0.0.2735 (EN)</a> • <a href='http://premium.avira-update.com/package/wks_avira13/win32/en/isec/avira_internet_security_en.exe'>Avira Internet Security Plus 2013 13.0.0.2735 (EN)</a> • <a href='http://premium.avira-update.com/package/wks_avira13/win32/en/isec/avira_internet_security_en.exe'>Avira Professional Security 2013 13.0.0.2735 (EN)</a></p>
+
+<p><a href='/uploads/2012/09/Screen-Shot-2012-09-27-at-3.09.07-PM.png'><img alt='' src='/uploads/2012/09/Screen-Shot-2012-09-27-at-3.09.07-PM-300x159.png' /></a></p>]]></content>
+  </entry>
+  
+</feed>
